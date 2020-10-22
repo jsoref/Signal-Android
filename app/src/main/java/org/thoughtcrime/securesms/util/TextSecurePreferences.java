@@ -123,7 +123,7 @@ public class TextSecurePreferences {
   private static final String PROFILE_NAME_PREF                = "pref_profile_name";
   private static final String PROFILE_AVATAR_ID_PREF           = "pref_profile_avatar_id";
   public  static final String READ_RECEIPTS_PREF               = "pref_read_receipts";
-  public  static final String INCOGNITO_KEYBORAD_PREF          = "pref_incognito_keyboard";
+  public  static final String INCOGNITO_KEYBOARD_PREF          = "pref_incognito_keyboard";
   private static final String UNAUTHORIZED_RECEIVED            = "pref_unauthorized_received";
   private static final String SUCCESSFUL_DIRECTORY_PREF        = "pref_successful_directory";
 
@@ -395,7 +395,7 @@ public class TextSecurePreferences {
   }
 
   public static boolean isIncognitoKeyboardEnabled(Context context) {
-    return getBooleanPreference(context, INCOGNITO_KEYBORAD_PREF, false);
+    return getBooleanPreference(context, INCOGNITO_KEYBOARD_PREF, false);
   }
 
   public static boolean isReadReceiptsEnabled(Context context) {
