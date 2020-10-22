@@ -363,7 +363,7 @@ public class AppProtectionPreferenceFragment extends CorrectedPreferenceFragment
     }
   }
 
-  // Derecated
+  // Deprecated
 
   private class ChangePassphraseClickListener implements Preference.OnPreferenceClickListener {
     @Override
