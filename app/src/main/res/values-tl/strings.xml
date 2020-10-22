@@ -1216,7 +1216,7 @@
   <string name="redphone_call_card__signal_call">Tawag sa Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NUMERO NG TELEPONO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Pinadadali ni Signal ang pakikipag-ugnayan gamit ang iyong kasalukuyang numero ng telepono at libro ng address. Gamit ang Signal, madaling makipag-ugnayan sa mga kaibigan at kontak na nakakaalam na kung paano ka ikontak sa pamamagitan ng telepono.\n\nAng pagpaparehistro ay magpapadala ng ilang impormasyon ng kontak sa server. Hindi ito maiimbak.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Pinadadali ni Signal ang pakikipag-ugnayan gamit ang iyong kasalukuyang numero ng telepono at libro ng address. Gamit ang Signal, madaling makipag-ugnayan sa mga kaibigan at kontak na nakakaalam na kung paano ka ikontak sa pamamagitan ng telepono.\n\nAng pagpaparehistro ay magpapadala ng ilang impormasyon ng kontak sa server. Hindi ito maiimbak.</string>
   <string name="registration_activity__verify_your_number">Beripikahin ang Iyong Numero</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Pakilagay ang numero ng iyong mobile upang makatanggap ng verification code. Maaaring mailapat ang mga singilin ng Carrier.</string>
   <!--recipients_panel-->

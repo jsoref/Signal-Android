@@ -1142,7 +1142,7 @@
   <string name="redphone_call_card__signal_call">Telepon Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NOMER TELEPON</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal ngaringkesaken komunikasi ngginakaken buku alamat lan nomer telepon sampeyan ingkang sampun enten. Kanca-kanca lan kontak sampeyan ingkang sampun ngertos cara ngontak sampeyan bakal saged ngobrol ngginakaken Signal sacara gampil.\n\nNdaftar Signal bakal nyiaraken ragam informasi kontak dhateng server, nanging informasi kasebut mboten dipunsimpen.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal ngaringkesaken komunikasi ngginakaken buku alamat lan nomer telepon sampeyan ingkang sampun enten. Kanca-kanca lan kontak sampeyan ingkang sampun ngertos cara ngontak sampeyan bakal saged ngobrol ngginakaken Signal sacara gampil.\n\nNdaftar Signal bakal nyiaraken ragam informasi kontak dhateng server, nanging informasi kasebut mboten dipunsimpen.</string>
   <string name="registration_activity__verify_your_number">Verifikasi Nomer Telepon Sampeyan</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Lebetaken nomer telepon sampeyan kangge nampi kode verifikasi. Mbokmenawi bakal enten biaya operator.</string>
   <!--recipients_panel-->

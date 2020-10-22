@@ -1255,7 +1255,7 @@
   <string name="redphone_call_card__signal_call">Chamada Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NÚMERO DE TELÉFONO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal facilita a comunicación utilizando o teu número de teléfono e axenda de contactos. As amizades e os contactos que xa saben como contactar contigo polo número de teléfono agora atoparante facilmente con Signal.\n\nO rexistro transmite algunha información ao servidor, que non se almacena.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal facilita a comunicación utilizando o teu número de teléfono e axenda de contactos. As amizades e os contactos que xa saben como contactar contigo polo número de teléfono agora atoparante facilmente con Signal.\n\nO rexistro transmite algunha información ao servidor, que non se almacena.</string>
   <string name="registration_activity__verify_your_number">Verificar o teu número</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Insire o teu número de teléfono para recibir un código de verificación. Pode supor a aplicación dalgunha tarifa por parte do operador.</string>
   <!--recipients_panel-->

@@ -1892,7 +1892,7 @@
   <string name="redphone_call_card__signal_call">שיחת Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">מספר טלפון</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal מקל לתקשר ע״י שימוש במספר הטלפון ובפנקס הכתובות הקיימים שלך. חברים ואנשי קשר שיודעים כבר איך ליצור איתך קשר בטלפון, יוכלו לשמור על קשר בקלות ב־Signal.\n\nהרשמה משדרת מידע מסוים של אנשי קשר אל השרת. המידע אינו מאוחסן.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal מקל לתקשר ע״י שימוש במספר הטלפון ובפנקס הכתובות הקיימים שלך. חברים ואנשי קשר שיודעים כבר איך ליצור איתך קשר בטלפון, יוכלו לשמור על קשר בקלות ב־Signal.\n\nהרשמה משדרת מידע מסוים של אנשי קשר אל השרת. המידע אינו מאוחסן.</string>
   <string name="registration_activity__verify_your_number">וודא את המספר שלך</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">אנא הכנס את המספר הנייד שלך כדי לקבל קוד וידוא. תשלומי מפעיל עשויים לחול.</string>
   <!--recipients_panel-->

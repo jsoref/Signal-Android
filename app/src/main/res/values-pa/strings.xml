@@ -1269,7 +1269,7 @@
   <string name="redphone_call_card__signal_call">Signal ਕਾਲ </string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ਫੋਨ ਨੰਬਰ</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਫੋਨ ਨੰਬਰ ਅਤੇ ਐਡਰੈੱਸ ਬੁੱਕ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸੰਚਾਰ ਕਰਨਾ ਸੌਖਾ ਬਣਾਉਂਦਾ ਹੈ. ਦੋਸਤ ਅਤੇ ਸੰਪਰਕ ਜੋ ਪਹਿਲਾਂ ਹੀ ਜਾਣਦੇ ਹਨ ਕਿ ਤੁਸੀਂ ਫੋਨ ਦੁਆਰਾ ਕਿਸ ਤਰ੍ਹਾਂ ਸੰਪਰਕ ਕਰਨਾ ਹੈ, Signal ਦੁਆਰਾ ਆਸਾਨੀ ਨਾਲ ਸੰਪਰਕ ਵਿੱਚ ਆਉਣ ਦੇ ਯੋਗ ਹੋਵੇਗਾ. \n\n ਰਜਿਸਟਰਡ ਕੁਝ ਸੰਪਰਕ ਜਾਣਕਾਰੀ ਨੂੰ ਸਰਵਰ ਤੇ ਸੰਚਾਰਿਤ ਕਰਦਾ ਹੈ. ਇਹ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਫੋਨ ਨੰਬਰ ਅਤੇ ਐਡਰੈੱਸ ਬੁੱਕ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸੰਚਾਰ ਕਰਨਾ ਸੌਖਾ ਬਣਾਉਂਦਾ ਹੈ. ਦੋਸਤ ਅਤੇ ਸੰਪਰਕ ਜੋ ਪਹਿਲਾਂ ਹੀ ਜਾਣਦੇ ਹਨ ਕਿ ਤੁਸੀਂ ਫੋਨ ਦੁਆਰਾ ਕਿਸ ਤਰ੍ਹਾਂ ਸੰਪਰਕ ਕਰਨਾ ਹੈ, Signal ਦੁਆਰਾ ਆਸਾਨੀ ਨਾਲ ਸੰਪਰਕ ਵਿੱਚ ਆਉਣ ਦੇ ਯੋਗ ਹੋਵੇਗਾ. \n\n ਰਜਿਸਟਰਡ ਕੁਝ ਸੰਪਰਕ ਜਾਣਕਾਰੀ ਨੂੰ ਸਰਵਰ ਤੇ ਸੰਚਾਰਿਤ ਕਰਦਾ ਹੈ. ਇਹ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ.</string>
   <string name="registration_activity__verify_your_number">ਆਪਣਾ ਨੰਬਰ ਪ੍ਰਮਾਣਿਤ ਕਰੋ</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਪੁਸ਼ਟੀਕਰਣ ਕੋਡ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਆਪਣਾ ਮੋਬਾਈਲ ਨੰਬਰ ਦਰਜ ਕਰੋ. ਕੈਰੀਅਰ ਦਰ ਲਾਗੂ ਹੋ ਸਕਦੀ ਹੈ</string>
   <!--recipients_panel-->

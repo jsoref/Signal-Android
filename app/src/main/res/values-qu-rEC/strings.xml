@@ -876,7 +876,7 @@ Shuk ranti pakallayupay chaski chayamurka, shuk ñawpa mana alli protocolo kashk
   <string name="redphone_call_card__signal_call">Signalwan kayachipay</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">WILLIWILLIPA YUPAY</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal yanapanmi rimarinkapak kikinpa yupaywan shinallata kikinpa mashiyupaykunwanpash. Kikinpa mashikuna ña  yachashpaka Signalwan rimarita ushankichimi.\n\nKallari killkari willayta riksichin kikinpa yupaymashipata shinapash mana servidor ukupi allichinchu.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal yanapanmi rimarinkapak kikinpa yupaywan shinallata kikinpa mashiyupaykunwanpash. Kikinpa mashikuna ña  yachashpaka Signalwan rimarita ushankichimi.\n\nKallari killkari willayta riksichin kikinpa yupaymashipata shinapash mana servidor ukupi allichinchu.</string>
   <string name="registration_activity__verify_your_number">Kikinpa yupayta rikuy</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Kikinpa williwillipa yupayta churay, mushuk yupay chaayamuchun. Wakinpika kay chaskika mana yanakalla shamunkachu.</string>
   <!--recipients_panel-->

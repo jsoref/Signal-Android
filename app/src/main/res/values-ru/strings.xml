@@ -1885,7 +1885,7 @@
   <string name="redphone_call_card__signal_call">Звонок Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">НОМЕР ТЕЛЕФОНА</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Чтобы упростить общение, Signal использует ваши существующие номер телефона и адресную книгу. Друзья и контакты, которые могут связаться с вами по телефону, с легкостью смогут сделать это и через Signal.\n\nПри регистрации на сервер передается некоторая информация о контактах, но не сохраняется там.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Чтобы упростить общение, Signal использует ваши существующие номер телефона и адресную книгу. Друзья и контакты, которые могут связаться с вами по телефону, с легкостью смогут сделать это и через Signal.\n\nПри регистрации на сервер передается некоторая информация о контактах, но не сохраняется там.</string>
   <string name="registration_activity__verify_your_number">Подтвердите свой номер</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Пожалуйста, введите свой номер мобильного телефона для получения кода подтверждения. Вашим оператором может взиматься плата за входящее SMS.</string>
   <!--recipients_panel-->

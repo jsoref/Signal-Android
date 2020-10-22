@@ -1164,7 +1164,7 @@
   <string name="redphone_call_card__signal_call">Signal कॉल </string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">फ़ोन नंबर </string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal आपके मौजूदा फोन नंबर और एड्रेस बुक का उपयोग करके संवाद करना आसान बनाता है। दोस्तों और संपर्क जो पहले से ही फोन से संपर्क करने के बारे में जानते हैं, वे Signal द्वारा आसानी से संपर्क में रह सकेंगे । \n\nपंजीकरण सर्वर पर कुछ संपर्क जानकारी प्रसारित करता है। यह संग्रहीत नहीं है।</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal आपके मौजूदा फोन नंबर और एड्रेस बुक का उपयोग करके संवाद करना आसान बनाता है। दोस्तों और संपर्क जो पहले से ही फोन से संपर्क करने के बारे में जानते हैं, वे Signal द्वारा आसानी से संपर्क में रह सकेंगे । \n\nपंजीकरण सर्वर पर कुछ संपर्क जानकारी प्रसारित करता है। यह संग्रहीत नहीं है।</string>
   <string name="registration_activity__verify_your_number">अपना नंबर सत्यापित करें</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">सत्यापन कोड प्राप्त करने के लिए कृपया अपना मोबाइल नंबर दर्ज करें। कैरियर दरें लागू हो सकती हैं।</string>
   <!--recipients_panel-->

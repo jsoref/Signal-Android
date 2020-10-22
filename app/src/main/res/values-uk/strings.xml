@@ -958,7 +958,7 @@
   <string name="redphone_call_card__signal_call">Виклик Signal </string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">НОМЕР ТЕЛЕФОНУ</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">З Signal дуже легко спілкуватися маючи лише телефонну книги. Друзі та контакти з якими ви вже спілкуєтесь телефоном зможуть легко початки користуватись Signal.\n\nПід час реєстрації передається деяка інформація на сервер але вона не зберігається.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">З Signal дуже легко спілкуватися маючи лише телефонну книги. Друзі та контакти з якими ви вже спілкуєтесь телефоном зможуть легко початки користуватись Signal.\n\nПід час реєстрації передається деяка інформація на сервер але вона не зберігається.</string>
   <string name="registration_activity__verify_your_number">Перевірити ваш номер</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Вкажіть ваш мобільний номер, щоб отримати перевірочний код. Вашим оператором може стягуватися плата.</string>
   <!--recipients_panel-->

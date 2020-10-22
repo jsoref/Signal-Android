@@ -1884,7 +1884,7 @@ Otrzymano wiadomość wymiany klucz dla niepoprawnej wersji protokołu.</string>
   <string name="redphone_call_card__signal_call">Połączenie Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NUMER TELEFONU</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal ułatwia komunikację używając Twój numer telefonu i książkę adresową. Znajomi i kontakty, którzy wiedzą, jak się z Tobą skontaktować przez telefon, będą mogli łatwo nawiązać kontakt przez Signal. \n\nPodczas rejestracji wysyłane są na serwer pewne informacje o kontaktach, lecz nie są one przechowywane.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal ułatwia komunikację używając Twój numer telefonu i książkę adresową. Znajomi i kontakty, którzy wiedzą, jak się z Tobą skontaktować przez telefon, będą mogli łatwo nawiązać kontakt przez Signal. \n\nPodczas rejestracji wysyłane są na serwer pewne informacje o kontaktach, lecz nie są one przechowywane.</string>
   <string name="registration_activity__verify_your_number">Zweryfikuj swój numer</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Wpisz swój numer telefonu w celu wysłania kodu weryfikacyjnego. Mogą obowiązywać stawki operatora.</string>
   <!--recipients_panel-->

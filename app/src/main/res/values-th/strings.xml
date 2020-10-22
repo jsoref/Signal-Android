@@ -1314,7 +1314,7 @@
   <string name="redphone_call_card__signal_call">สาย Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">หมายเลขโทรศัพท์</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal ทำให้การสื่อสารง่ายขึ้นด้วยการใช้หมายเลขโทรศัพท์และรายชื่อผู้ติดต่อที่คุณมีอยู่แล้ว เพื่อนและผู้ติดต่อที่คุณรู้จักอยู่แล้วที่ติดต่อคุณผ่านทางโทรศัพท์ได้จะสามารถติดต่อคุณผ่าน Signal ได้เช่นกัน การลงทะเบียนจะส่งข้อมูลส่วนหนึ่งของผู้ติดต่อไปที่เซิร์ฟเวอร์ แต่จะไม่มีการบันทึกข้อมูลเหล่านั้นไว้</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal ทำให้การสื่อสารง่ายขึ้นด้วยการใช้หมายเลขโทรศัพท์และรายชื่อผู้ติดต่อที่คุณมีอยู่แล้ว เพื่อนและผู้ติดต่อที่คุณรู้จักอยู่แล้วที่ติดต่อคุณผ่านทางโทรศัพท์ได้จะสามารถติดต่อคุณผ่าน Signal ได้เช่นกัน การลงทะเบียนจะส่งข้อมูลส่วนหนึ่งของผู้ติดต่อไปที่เซิร์ฟเวอร์ แต่จะไม่มีการบันทึกข้อมูลเหล่านั้นไว้</string>
   <string name="registration_activity__verify_your_number">ตรวจยืนยันหมายเลขของคุณ</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">กรุณาใส่หมายเลขโทรศัพท์ของคุณเพื่อรับรหัสตรวจยืนยัน อาจมีค่าบริการจากผู้ให้บริการโทรศัพท์</string>
   <!--recipients_panel-->

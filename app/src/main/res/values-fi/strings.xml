@@ -1669,7 +1669,7 @@ Vastaanotetiin avaintenvaihtoviesti, joka kuuluu väärälle protokollaversiolle
   <string name="redphone_call_card__signal_call">Signal-puhelu</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">PUHELINNUMERO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal tekee kommunikoinnista helppoa käyttämällä hyödyksi olemassaolevaa puhelinnumeroasi ja yhteystietojasi. Ystäväsi, jotka tuntevat sinut puhelinnumerosi kautta, voivat ottaa sinuun yhteyttä jatkossa myös Signalin kautta.\n\nRekisteröityminen siirtää joitakin yhteystietoja väliaikaisesti palvelimelle. Niitä ei kuitenkaan tallenneta sinne.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal tekee kommunikoinnista helppoa käyttämällä hyödyksi olemassaolevaa puhelinnumeroasi ja yhteystietojasi. Ystäväsi, jotka tuntevat sinut puhelinnumerosi kautta, voivat ottaa sinuun yhteyttä jatkossa myös Signalin kautta.\n\nRekisteröityminen siirtää joitakin yhteystietoja väliaikaisesti palvelimelle. Niitä ei kuitenkaan tallenneta sinne.</string>
   <string name="registration_activity__verify_your_number">Vahvista numerosi</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Syötä puhelinnumerosi saadaksesi vahvistuskoodin. Matkapuhelinoperaattorisi hinnat voivat olla voimassa.</string>
   <!--recipients_panel-->

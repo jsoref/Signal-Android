@@ -1019,7 +1019,7 @@ Menerima mesej pertukaran kunci untuk versi protokol yang tidak sah.</string>
   <string name="redphone_call_card__signal_call">Panggilan Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NOMBOR TELEFON</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal memudahkan untuk berkomunikasi dengan menggunakan nombor telefon dan buku alamat sedia ada anda. Rakan dan kenalan yang sudah tahu bagaimana menghubungi anda melalui telefon akan dapat dihubungi oleh Signal dengan lebih mudah. \n\nPendaftaran menghantar beberapa maklumat kenalan ke pelayan. Ia tidak disimpan.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal memudahkan untuk berkomunikasi dengan menggunakan nombor telefon dan buku alamat sedia ada anda. Rakan dan kenalan yang sudah tahu bagaimana menghubungi anda melalui telefon akan dapat dihubungi oleh Signal dengan lebih mudah. \n\nPendaftaran menghantar beberapa maklumat kenalan ke pelayan. Ia tidak disimpan.</string>
   <string name="registration_activity__verify_your_number">Sahkan Nombor Telefon Anda</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Sila masukkan nombor mudah alih anda untuk menerima kod pengesahan. Kada pembawa mungkin dikenakan</string>
   <!--recipients_panel-->

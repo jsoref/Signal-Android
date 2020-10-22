@@ -1754,7 +1754,7 @@
   <string name="redphone_call_card__signal_call">Chiamata Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NUMERO DI TELEFONO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal rende facile comunicare usando il tuo numero di telefono e la tua rubrica. Gli amici e i contatti che sanno già come chiamarti per telefono potranno mettersi in contatto facilmente con Signal.\n\nLa registrazione trasmette alcune informazioni di contatto al sever. Non vengono salvate.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal rende facile comunicare usando il tuo numero di telefono e la tua rubrica. Gli amici e i contatti che sanno già come chiamarti per telefono potranno mettersi in contatto facilmente con Signal.\n\nLa registrazione trasmette alcune informazioni di contatto al sever. Non vengono salvate.</string>
   <string name="registration_activity__verify_your_number">Verifica il tuo numero</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Inseirisci il tuo numero di telefono per ricevere un codice di verifica. Costi dell\'operatore applicabili.</string>
   <!--recipients_panel-->

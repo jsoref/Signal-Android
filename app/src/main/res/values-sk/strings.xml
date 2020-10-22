@@ -1891,7 +1891,7 @@ Bola prijatá správa výmeny kľúčov s neplatnou verziou protokolu.
   <string name="redphone_call_card__signal_call">Signal hovor</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFÓNNE ČÍSLO </string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal uľahčuje komunikáciu použitím vášho telefónneho čísla a kontaktov. Vaši priatelia, ktorí už vedia ako sa s vami spojiť cez telefón vás budú môcť ľahko kontaktovať cez Signal.\n\nPočas registrácie sa prenesú niektoré informácie o kontaktoch na server, ktoré sa ďalej neukladajú.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal uľahčuje komunikáciu použitím vášho telefónneho čísla a kontaktov. Vaši priatelia, ktorí už vedia ako sa s vami spojiť cez telefón vás budú môcť ľahko kontaktovať cez Signal.\n\nPočas registrácie sa prenesú niektoré informácie o kontaktoch na server, ktoré sa ďalej neukladajú.</string>
   <string name="registration_activity__verify_your_number">Overte Vaše číslo</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Zadajte svoje telefónne číslo pre prijatie verifikačného kódu. Môže to byť spoplatnené.</string>
   <!--recipients_panel-->

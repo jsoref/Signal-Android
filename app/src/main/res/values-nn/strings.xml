@@ -1758,7 +1758,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="redphone_call_card__signal_call">Signal-samtale</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONNUMMER</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal gjer det enkelt å kommunisera ved hjelp av telefonnummeret ditt og adresseboka di. Vennar og kontaktar som allereie veit korleis dei skal ta kontakt med deg over telefon vil enkelt kunna ta kontakt over Signal.
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal gjer det enkelt å kommunisera ved hjelp av telefonnummeret ditt og adresseboka di. Vennar og kontaktar som allereie veit korleis dei skal ta kontakt med deg over telefon vil enkelt kunna ta kontakt over Signal.
 
 Ved registrering sender me litt kontaktinformasjon til tenaren. Informasjonen vert ikkje lagra.</string>
   <string name="registration_activity__verify_your_number">Stadfest nummeret ditt</string>

@@ -1513,7 +1513,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversion.</string>
   <string name="redphone_call_card__signal_call">Signal-samtale</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONNUMMER</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal gjør det enkelt å kommunisere ved å bruke telefonnummeret og adresseboka du allerede har. Venner og kontakter som allerede vet hvordan de kontakter deg via telefon kan enkelt ta kontakt via Signal.\n\nRegistrering overfører noe kontaktinformasjon til Signal-tjeneren. Dette blir ikke lagret.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal gjør det enkelt å kommunisere ved å bruke telefonnummeret og adresseboka du allerede har. Venner og kontakter som allerede vet hvordan de kontakter deg via telefon kan enkelt ta kontakt via Signal.\n\nRegistrering overfører noe kontaktinformasjon til Signal-tjeneren. Dette blir ikke lagret.</string>
   <string name="registration_activity__verify_your_number">Bekreft nummeret ditt</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Skriv inn mobilnummeret ditt for å motta en bekreftelseskode. Teleoperatøren kan belaste deg for dette.</string>
   <!--recipients_panel-->

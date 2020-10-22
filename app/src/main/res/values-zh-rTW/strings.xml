@@ -1682,7 +1682,7 @@
   <string name="redphone_call_card__signal_call">Signal 通話</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">手機號碼</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal 使用你現在的手機號碼和通訊簿，讓通訊變得簡單。知道如何用手機聯繫你的朋友與聯絡人們，他們會更容易的透過 Signal 與你保持聯絡。\n\n註冊時，會傳輸一些聯絡資訊到伺服器，這些聯絡資訊並不會被儲存。</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal 使用你現在的手機號碼和通訊簿，讓通訊變得簡單。知道如何用手機聯繫你的朋友與聯絡人們，他們會更容易的透過 Signal 與你保持聯絡。\n\n註冊時，會傳輸一些聯絡資訊到伺服器，這些聯絡資訊並不會被儲存。</string>
   <string name="registration_activity__verify_your_number">驗證你的號碼</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">請輸入你的行動電話號碼來接收驗證碼。也許要支付簡訊費用。</string>
   <!--recipients_panel-->

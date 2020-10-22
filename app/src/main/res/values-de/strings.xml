@@ -1744,7 +1744,7 @@ Schlüsselaustausch-Nachricht für eine ungültige Protokollversion empfangen</s
   <string name="redphone_call_card__signal_call">Signal-Anruf</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">RUFNUMMER</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal macht Kommunikation einfach, indem es deine bestehende Rufnummer und dein Adressbuch verwendet. Freunde und Kontakte, die deine Rufnummer kennen, können so über Signal leicht mit dir Kontakt aufnehmen.\n\nBeim Registrieren werden einige Kontaktdaten an den Server übermittelt. Diese werden nicht gespeichert.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal macht Kommunikation einfach, indem es deine bestehende Rufnummer und dein Adressbuch verwendet. Freunde und Kontakte, die deine Rufnummer kennen, können so über Signal leicht mit dir Kontakt aufnehmen.\n\nBeim Registrieren werden einige Kontaktdaten an den Server übermittelt. Diese werden nicht gespeichert.</string>
   <string name="registration_activity__verify_your_number">Verifiziere deine Rufnummer</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Bitte gib deine Rufnummer ein, um einen Verifikationscode zu erhalten. Dabei können Mobilfunkgebühren anfallen.</string>
   <!--recipients_panel-->
