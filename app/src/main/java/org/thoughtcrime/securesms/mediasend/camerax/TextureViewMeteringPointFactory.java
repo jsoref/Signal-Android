@@ -35,7 +35,7 @@ import androidx.camera.core.MeteringPointFactory;
  * crop region normalized (x,y) by this transform. {@link SurfaceTexture#getTransformMatrix} is
  * also used during the translation. No lens facing information is required because
  * {@link SurfaceTexture#getTransformMatrix} contains the necessary transformation corresponding
- * to the lens face of current camera ouput.
+ * to the lens face of current camera output.
  */
 public class TextureViewMeteringPointFactory extends MeteringPointFactory {
     private final TextureView mTextureView;
