@@ -2298,7 +2298,7 @@
     <string name="conversation_context__menu_resend_message">Resend message</string>
     <string name="conversation_context__menu_reply_to_message">Reply to message</string>
 
-    <!-- conversation_context_reacction -->
+    <!-- conversation_context_reaction -->
     <string name="conversation_context__reaction_multi_select">Select multiple</string>
 
     <!-- conversation_context_image -->

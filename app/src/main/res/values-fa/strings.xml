@@ -1901,7 +1901,7 @@
   <string name="conversation_context__menu_forward_message">ارسال پیام</string>
   <string name="conversation_context__menu_resend_message">ارسال مجدد پیام</string>
   <string name="conversation_context__menu_reply_to_message">پاسخ به پیام</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">انتخاب چندگانه</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">ذخیره‌سازی پیوست</string>

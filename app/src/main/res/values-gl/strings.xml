@@ -1497,7 +1497,7 @@
   <string name="conversation_context__menu_forward_message">Reenviar mensaxe</string>
   <string name="conversation_context__menu_resend_message">Reenviar mensaxe</string>
   <string name="conversation_context__menu_reply_to_message">Responder a mensaxe</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Gardar anexo</string>
   <!--conversation_expiring_off-->

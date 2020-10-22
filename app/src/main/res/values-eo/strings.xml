@@ -1902,7 +1902,7 @@ Ricevis mesaĝon pri interŝanĝo de ŝlosiloj por nevalida protokola versio.
   <string name="conversation_context__menu_forward_message">Plusendi mesaĝon</string>
   <string name="conversation_context__menu_resend_message">Resendi mesaĝon</string>
   <string name="conversation_context__menu_reply_to_message">Respondi mesaĝon</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Elekti plurajn</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Konservi kunsendaĵon</string>

@@ -1650,7 +1650,7 @@
   <string name="conversation_context__menu_forward_message">បញ្ជូនសារបន្ត</string>
   <string name="conversation_context__menu_resend_message">ផ្ញើសារឡើងវិញ</string>
   <string name="conversation_context__menu_reply_to_message">ឆ្លើយតបសារ</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">ជ្រើសរើសច្រើន</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">រក្សាឯកសារភ្ជាប់</string>

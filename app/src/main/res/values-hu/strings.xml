@@ -1906,7 +1906,7 @@ Kulcs-csere üzenet érkezett érvénytelen protokoll verzióhoz.
   <string name="conversation_context__menu_forward_message">Üzenet továbbítása</string>
   <string name="conversation_context__menu_resend_message">Üzenet újraküldése</string>
   <string name="conversation_context__menu_reply_to_message">Válasz az üzenetre</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Több kiválasztása</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Melléklet mentése</string>

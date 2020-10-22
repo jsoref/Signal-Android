@@ -1897,7 +1897,7 @@ Vastaanotetiin avaintenvaihtoviesti, joka kuuluu väärälle protokollaversiolle
   <string name="conversation_context__menu_forward_message">Välitä viesti</string>
   <string name="conversation_context__menu_resend_message">Lähetä viesti uudelleen</string>
   <string name="conversation_context__menu_reply_to_message">Vastaa viestiin</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Valitse useita</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Tallenna liite</string>

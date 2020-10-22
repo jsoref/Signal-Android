@@ -1903,7 +1903,7 @@ Modtog en nøgle besked, for en ugyldig protokol-version
   <string name="conversation_context__menu_forward_message">Videresend besked</string>
   <string name="conversation_context__menu_resend_message">Send beskeden igen</string>
   <string name="conversation_context__menu_reply_to_message">Svar på besked</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Vælg flere</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Gem vedhæftet fil</string>

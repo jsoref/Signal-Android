@@ -1379,7 +1379,7 @@
   <string name="conversation_context__menu_forward_message">پیغام آگے بھیجیں</string>
   <string name="conversation_context__menu_resend_message">پیغام دوبارہ بھیجیں</string>
   <string name="conversation_context__menu_reply_to_message">پیغام کا جواب دیں</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">متعدد منتخب کریں</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">منسلک چیزیں محفوظ کریں</string>

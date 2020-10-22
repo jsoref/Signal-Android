@@ -1859,7 +1859,7 @@
   <string name="conversation_context__menu_forward_message">Transférer le message</string>
   <string name="conversation_context__menu_resend_message">Renvoyer le message</string>
   <string name="conversation_context__menu_reply_to_message">Répondre au message</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Sélection multiple</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Enregistrer le fichier joint</string>

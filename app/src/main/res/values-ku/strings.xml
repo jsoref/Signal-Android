@@ -1094,7 +1094,7 @@
   <string name="conversation_context__menu_forward_message">Peyamê bişîne yekî din</string>
   <string name="conversation_context__menu_resend_message">Peyam dîsa bişîne</string>
   <string name="conversation_context__menu_reply_to_message">Bersiv bide peyamê</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Servehiyê tomar bike</string>
   <!--conversation_expiring_off-->

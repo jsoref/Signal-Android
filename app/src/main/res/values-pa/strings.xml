@@ -1490,7 +1490,7 @@
   <string name="conversation_context__menu_forward_message">ਸੰਦੇਸ਼ ਅੱਗੇ ਭੇਜੋ </string>
   <string name="conversation_context__menu_resend_message">ਸੁਨੇਹਾ ਦੁਬਾਰਾ ਭੇਜੋ</string>
   <string name="conversation_context__menu_reply_to_message">ਸੁਨੇਹੇ ਨੂੰ ਜਵਾਬ ਦਿਓ</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">ਅਟੈਚਮੈਂਟਸ ਦਰਜ ਕਰੋ</string>
   <!--conversation_expiring_off-->

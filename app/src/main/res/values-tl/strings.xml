@@ -1456,7 +1456,7 @@
   <string name="conversation_context__menu_forward_message">Ipasa ang mensahe</string>
   <string name="conversation_context__menu_resend_message">Muling ipadala ang mensahe</string>
   <string name="conversation_context__menu_reply_to_message">Tugon sa mensahe</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Pumili ng marami</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">I-save ang kalakip</string>

@@ -2017,7 +2017,7 @@ Send neges heb ei ddiogelu?</string>
   <string name="conversation_context__menu_forward_message">Anfon ymlaen</string>
   <string name="conversation_context__menu_resend_message">Ailanfon y neges</string>
   <string name="conversation_context__menu_reply_to_message">Ateb neges</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Dewis nifer</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Cadw atodiad</string>

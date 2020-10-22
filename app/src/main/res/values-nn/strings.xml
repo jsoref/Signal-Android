@@ -1909,7 +1909,7 @@ Ved registrering sender me litt kontaktinformasjon til tenaren. Informasjonen ve
   <string name="conversation_context__menu_forward_message">Vidaresend melding</string>
   <string name="conversation_context__menu_resend_message">Send melding på nytt</string>
   <string name="conversation_context__menu_reply_to_message">Svar på meldinga</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Vel fleire</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Lagra vedlegg</string>

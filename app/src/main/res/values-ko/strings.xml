@@ -1620,7 +1620,7 @@
   <string name="conversation_context__menu_forward_message">메시지 전달</string>
   <string name="conversation_context__menu_resend_message">메시지 다시 보내기</string>
   <string name="conversation_context__menu_reply_to_message">메시지 답장</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">여러 개 선택</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">첨부 파일 저장</string>

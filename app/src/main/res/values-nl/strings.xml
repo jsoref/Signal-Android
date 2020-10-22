@@ -1908,7 +1908,7 @@ Signal zal nu toestemming vragen om je contactenlijst te lezen, om na te gaan wi
   <string name="conversation_context__menu_forward_message">Bericht doorsturen</string>
   <string name="conversation_context__menu_resend_message">Bericht opnieuw verzenden</string>
   <string name="conversation_context__menu_reply_to_message">Reageren</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Meerdere selecteren</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Bijlage opslaan</string>

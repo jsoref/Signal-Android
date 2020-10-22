@@ -1152,7 +1152,7 @@
   <string name="conversation_context__menu_forward_message">Mesajı yönləndir</string>
   <string name="conversation_context__menu_resend_message">Mesajı yenidən göndər</string>
   <string name="conversation_context__menu_reply_to_message">Mesajı cavabla</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Faylı yadda saxla</string>
   <!--conversation_expiring_off-->

@@ -1543,7 +1543,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="conversation_context__menu_forward_message">Teruskan pesan</string>
   <string name="conversation_context__menu_resend_message">Kirim ulang pesan</string>
   <string name="conversation_context__menu_reply_to_message">Balas pesan</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Pilih beberapa</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Simpan lampiran</string>

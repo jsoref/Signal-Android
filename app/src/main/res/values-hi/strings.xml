@@ -1382,7 +1382,7 @@
   <string name="conversation_context__menu_forward_message">फॉर्वर्ड मेसेज</string>
   <string name="conversation_context__menu_resend_message">मेसेज दोबारा भेजें</string>
   <string name="conversation_context__menu_reply_to_message">मेसेज का जवाब</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">कई का चयन करें</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">अटैचमेंट सेव करे</string>
