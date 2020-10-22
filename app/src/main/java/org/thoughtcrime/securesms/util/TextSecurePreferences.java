@@ -390,7 +390,7 @@ public class TextSecurePreferences {
     setBooleanPreference(context, UNAUTHORIZED_RECEIVED, value);
   }
 
-  public static boolean isUnauthorizedRecieved(Context context) {
+  public static boolean isUnauthorizedReceived(Context context) {
     return getBooleanPreference(context, UNAUTHORIZED_RECEIVED, false);
   }
 
