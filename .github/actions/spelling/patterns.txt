@@ -1,0 +1,18 @@
+# data urls
+data:[a-zA-Z=;,/0-9+-]+
+expectUrl\(".*"
+\bPack\(".*", ".*"
+Hex.fromStringCondensed\(".*"
+assertEquals\(".*"
+andPassword\(".*"
+\bsignal\.(?:group|org)/[0-9a-zAZ#/-]+
+# uuid:
+\b[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}\b
+# hex digits including css/html color classes:
+(?:[\\0][xX]|\\u|[uU]\+|#|\%23)[0-9a-fA-FgGrR_]{2,}[uU]?[lL]{0,2}\b
+--BEGIN.*?--END
+\\"(?:isvEnclaveQuoteBody|unidentifiedAccessKey)\\":\\"[^"]*"
+COUNTRY_CODE_[A-Z]+
+SWIPE_SUCCESS[_A-Z]+
+TextSecureKeyExchang[ds]
+\bR\.layout\.[a-z_]*
