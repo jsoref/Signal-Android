@@ -1757,7 +1757,7 @@ grūpp ap‌ḍē</string>
   <!--conversation_callable_insecure-->
   <string name="conversation_add_to_contacts__menu_add_to_contacts">കോൺ‌ടാക്റ്റുകളിലേക്ക് ചേർക്കുക</string>
   <!--conversation_group_options-->
-  <string name="convesation_group_options__recipients_list">സ്വീകർത്താക്കളുടെ പട്ടിക</string>
+  <string name="conversation_group_options__recipients_list">സ്വീകർത്താക്കളുടെ പട്ടിക</string>
   <string name="conversation_group_options__delivery">ഡെലിവറി</string>
   <string name="conversation_group_options__conversation">സംഭാഷണം</string>
   <string name="conversation_group_options__broadcast">ബ്രോഡ്കാസ്റ്റ്</string>
