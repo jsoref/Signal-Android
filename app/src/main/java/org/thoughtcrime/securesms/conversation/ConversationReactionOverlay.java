@@ -156,7 +156,7 @@ public final class ConversationReactionOverlay extends RelativeLayout {
 
     this.messageRecord         = messageRecord;
     this.conversationRecipient = conversationRecipient;
-    overlayState               = OverlayState.UNINITAILIZED;
+    overlayState               = OverlayState.UNINITIALIZED;
     selected                   = -1;
 
     setupToolbarMenuItems();
@@ -300,7 +300,7 @@ public final class ConversationReactionOverlay extends RelativeLayout {
       return true;
     }
 
-    if (overlayState == OverlayState.UNINITAILIZED) {
+    if (overlayState == OverlayState.UNINITIALIZED) {
       downIsOurs = false;
 
       deadzoneTouchPoint.set(motionEvent.getX(), motionEvent.getY());
@@ -663,7 +663,7 @@ public final class ConversationReactionOverlay extends RelativeLayout {
 
   private enum OverlayState {
     HIDDEN,
-    UNINITAILIZED,
+    UNINITIALIZED,
     DEADZONE,
     SCRUB,
     TAP
