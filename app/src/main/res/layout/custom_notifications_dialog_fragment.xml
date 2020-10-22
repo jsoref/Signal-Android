@@ -225,7 +225,7 @@
             android:textAppearance="@style/TextAppearance.Signal.Body2" />
 
         <TextView
-            android:id="@+id/custom_notifications_call_vibrate_selectior"
+            android:id="@+id/custom_notifications_call_vibrate_selection"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
