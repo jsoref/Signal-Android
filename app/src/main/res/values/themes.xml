@@ -301,7 +301,7 @@
         <item name="emoji_tab_strip_background">@color/core_grey_05</item>
         <item name="emoji_tab_indicator">#66555555</item>
         <item name="emoji_tab_underline">#44555555</item>
-        <item name="emoji_tab_seperator">@color/core_grey_20</item>
+        <item name="emoji_tab_separator">@color/core_grey_20</item>
         <item name="emoji_drawer_background">@color/core_grey_02</item>
         <item name="emoji_text_color">@color/black</item>
 
@@ -689,7 +689,7 @@
         <item name="emoji_tab_strip_background">@color/core_grey_85</item>
         <item name="emoji_tab_indicator">@color/core_grey_65</item>
         <item name="emoji_tab_underline">@color/core_grey_75</item>
-        <item name="emoji_tab_seperator">@color/core_grey_70</item>
+        <item name="emoji_tab_separator">@color/core_grey_70</item>
         <item name="emoji_drawer_background">@color/core_grey_95</item>
         <item name="emoji_text_color">@color/white</item>
 
