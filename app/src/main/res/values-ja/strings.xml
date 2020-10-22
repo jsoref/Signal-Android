@@ -1227,7 +1227,7 @@
   <string name="KeyCachingService_lock">Signalをロック</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">あなた</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">サポートされないメディアタイプ</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">サポートされないメディアタイプ</string>
   <string name="MediaPreviewActivity_draft">下書き</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">外部ストレージにデータを保存するには、Signalにストレージへのアクセス許可が必要ですが、無効になっています。アプリ設定メニューの「アプリの権限」で「ストレージ」を有効にしてください。</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">ストレージへのアクセス許可がないと外部ストレージに保存できません</string>

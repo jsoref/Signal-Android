@@ -1377,7 +1377,7 @@ Send neges heb ei ddiogelu?</string>
   <string name="KeyCachingService_lock">Cloi Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Chi</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Math o gyfrwng heb ei gynnal</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Math o gyfrwng heb ei gynnal</string>
   <string name="MediaPreviewActivity_draft">Drafft</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Mae ar Signal angen caniatâd Storio er mwyn cadw i storfa allanol, ond fe\'i rwystrwyd yn barhaol. Ewch i ddewislen gosodiadau\'r ap, dewis "Caniatâd", a galluogi "Storfa".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Methu cadw i storfa allanol heb ganiatâd</string>

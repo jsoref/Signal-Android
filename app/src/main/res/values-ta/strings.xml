@@ -1185,7 +1185,7 @@
   <string name="KeyCachingService_lock">Signal ஐ பூட்டு</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">நீங்கள்</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">ஆதரிக்கப்படாத மீடியா வகை</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">ஆதரிக்கப்படாத மீடியா வகை</string>
   <string name="MediaPreviewActivity_draft">வரைவு</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">வெளிப்புற சேமிப்பகத்தில் சேமிக்க Signal சேமிப்பக அனுமதி தேவை, ஆனால் அது நிரந்தரமாக மறுக்கப்பட்டது. பயன்பாடு அமைப்புகளைத் தொடரவும், \"அனுமதிகள்\" என்பதைத் தேர்ந்தெடுத்து, \"சேமிப்பகத்தை\" இயக்கவும்.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">அனுமதியின்றி வெளிப்புற சேமிப்பகத்தில் சேமிக்க முடியவில்லை</string>

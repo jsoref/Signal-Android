@@ -1024,7 +1024,7 @@ Saņemts nederīgas protokola versijas atslēgas apmaiņas ziņojums.
   <string name="KeyCachingService_lock">Noslēgt Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Jūs</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Neatbalstīts multimediju faila tips</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Neatbalstīts multimediju faila tips</string>
   <string name="MediaPreviewActivity_draft">Melnraksts</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal ir nepieciešama pieeja glabātuvei, lai saglabātu ārējā glabātuvē, bet pieeja nav dota. Dodieties uz lietotņu iestatījumiem, izvēlieties \"Atļaujas\" un iespējojiet \"Krātuve\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Nav iespējams saglabāt ārējā glabātuvē bez atļaujas.</string>

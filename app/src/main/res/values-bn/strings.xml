@@ -1043,7 +1043,7 @@
   <string name="KeyCachingService_lock">Signal লক্ করুন</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">আপনি</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">অসমর্থিত ধরনের মিডিয়া</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">অসমর্থিত ধরনের মিডিয়া</string>
   <string name="MediaPreviewActivity_draft">খসড়া</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">বাহ্যিক স্টোরেজে সংরক্ষণের জন্য Signalএর স্টোরেজের অনুমতি প্রয়োজন তবে এটি স্থায়ীভাবে অস্বীকার করা হয়েছে। দয়া করে অ্যাপ্লিকেশন সেটিংসে যান, \"অনুমতিগুলি\" নির্বাচন করুন এবং \"স্টোরেজ\" সক্ষম করুন।</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">অনুমতি ব্যতীত বাহ্যিক স্টোরেজে সংরক্ষণ করতে অক্ষম</string>

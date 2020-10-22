@@ -1105,7 +1105,7 @@ grūpp ap‌ḍē</string>
   <string name="KeyCachingService_lock">Signal ലോക്ക് ചെയ്യുക</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">നിങ്ങൾ</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">പിന്തുണയ്‌ക്കാത്ത മീഡിയ തരം</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">പിന്തുണയ്‌ക്കാത്ത മീഡിയ തരം</string>
   <string name="MediaPreviewActivity_draft">ഡ്രാഫ്റ്റ്</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">ബാഹ്യ  സ്റ്റോറേജിലെക് സംരക്ഷിക്കുന്നതിന് Signal-ന് സ്റ്റോറജ് ​​അനുമതി ആവശ്യമാണ്, പക്ഷേ ഇത് ശാശ്വതമായി നിരസിക്കപ്പെട്ടു. അപ്ലിക്കേഷൻ ക്രമീകരണങ്ങളിൽ തുടരുക, \"അനുമതികൾ\" തിരഞ്ഞെടുത്ത് \"സ്റ്റോറജ്\" പ്രവർത്തനക്ഷമമാക്കുക.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">അനുമതിയില്ലാതെ ബാഹ്യ സ്റ്റോറേജിലേക്ക് സേവ് ചെയ്യാൻ കഴിയില്ല</string>

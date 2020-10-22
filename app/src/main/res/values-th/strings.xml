@@ -990,7 +990,7 @@
   <string name="KeyCachingService_lock">ล็อก Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">คุณ</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">ชนิดสื่อที่ไม่รองรับ</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">ชนิดสื่อที่ไม่รองรับ</string>
   <string name="MediaPreviewActivity_draft">ร่าง</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">เพื่อที่จะบันทึกข้อมูลลงที่เก็บข้อมูลภายนอก Signal ต้องได้รับอนุญาตให้เข้าถึงที่เก็บข้อมูล แต่คำขอนั้นถูกปฏิเสธอย่างถาวร กรุณาไปที่เมนูตั้งค่าแอป เลือก \"การอนุญาต\" และเปิดใช้งาน \"ที่เก็บข้อมูล\"</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">ไม่สามารถบันทึกลงที่เก็บข้อมูลภายนอกได้ หากไม่ได้รับอนุญาต</string>

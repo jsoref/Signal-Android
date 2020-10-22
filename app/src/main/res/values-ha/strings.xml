@@ -847,7 +847,7 @@
   <string name="KeyCachingService_lock">Kulle Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Kai/Ke</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Ba\'a daukar iri wannan midiyan ba.</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Ba\'a daukar iri wannan midiyan ba.</string>
   <string name="MediaPreviewActivity_draft">Daftarin sako</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal na bukatar izinin ajiya domin ajiyar daga waje amma an hana wannan damar. Cigaba ka/ki shiga saitin afilikashon, zabi \"Izini\", kuma ka/ki karfafa \"Ajiya\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Baza\'a iya ajiye wani wurin ajiya daga waje ba tareda izini ba</string>

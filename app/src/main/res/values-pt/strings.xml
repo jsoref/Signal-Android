@@ -1279,7 +1279,7 @@ Mensagem de troca de chaves inválida para esta versão do protocolo.
   <string name="KeyCachingService_lock">Bloquear Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Você</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tipo de multimédia não suportado</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tipo de multimédia não suportado</string>
   <string name="MediaPreviewActivity_draft">Rascunho</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">O Signal requer permissão de acesso ao armazenamento para escrever no suporte de armazenamento externo, mas esta foi negada permanentemente. Por favor, aceda às definições das aplicações do telemóvel, seleccione o Signal e, em \"Permissões\" active \"Armazenamento\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Não é possível guardar para o armazenamento externo sem permissões</string>

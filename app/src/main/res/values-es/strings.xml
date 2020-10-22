@@ -1283,7 +1283,7 @@ Se recibió un mensaje de intercambio de claves para una versión no válida del
   <string name="KeyCachingService_lock">Bloquear Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Tú</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Formato de contenido incompatible</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Formato de contenido incompatible</string>
   <string name="MediaPreviewActivity_draft">Borrador</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal necesita acceso al almacenamiento del teléfono para guardar adjuntos en la tarjeta SD. Por favor, ve a la aplicación «Ajustes», selecciona Signal en el menú «Aplicaciones y notificaciones» y en «Permisos» activa «Almacenamiento».</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">No se puede guardar en una unidad de almacenamiento externo si Signal no tiene acceso</string>

@@ -1190,7 +1190,7 @@ Nhận thông tin trao đổi mã khóa về phiên bản giao thức không h�
   <string name="KeyCachingService_lock">Khoá Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Bạn</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Không hỗ trợ định dạng đa phương tiện này</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Không hỗ trợ định dạng đa phương tiện này</string>
   <string name="MediaPreviewActivity_draft">Nháp</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal cần quyền truy cập Bộ nhớ để lưu tệp vào bộ nhớ, nhưng đã bị từ chối vĩnh viễn. Vui lòng mở cài đặt ứng dụng, chọn \"Quyền\" và bật \"Bộ nhớ\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Không thể lưu tệp vào bộ nhớ khi không có quyền</string>

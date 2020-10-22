@@ -1283,7 +1283,7 @@ Gakoaren elkar-trukeraro mezua jaso da protokoloaren bertsio baliogabe baterako.
   <string name="KeyCachingService_lock">Blokeatu Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Zu</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Euskarri mota ez-onartua</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Euskarri mota ez-onartua</string>
   <string name="MediaPreviewActivity_draft">Zirriborroa</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signalek Gordailu baimena behar du kanpoko gordailuan datuak idazteko baina baimena ukatu egin diozu. Joan aplikazioaren ezarpenetara, aukeratu \"Baimenak\" eta aktibatu \"Gordailua\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Ezin izan da kanpoko gordailuan idatzi baimen faltagatik</string>

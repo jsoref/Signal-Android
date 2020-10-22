@@ -620,7 +620,7 @@
   <string name="KeyCachingService_lock">Signalê kilîd bike</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Tu</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Cureyê medyayê ya nepesartî</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Cureyê medyayê ya nepesartî</string>
   <string name="MediaPreviewActivity_draft">Reşnivîs</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal pêdivî destûrê ye ku li bîrbara derveyî tomar bike. Lê ev mayinde hatiye redkirî. Ji kerema xwe ji \'Sazkarî\' &gt; \'Destûr\' &gt; \'Bîrbar\' destûr bide.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Bê destûr nabe ku li bîrbara derveyî tomar bibe</string>

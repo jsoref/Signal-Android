@@ -904,7 +904,7 @@
   <string name="KeyCachingService_lock">I-lock ang Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ikaw</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Hindi suportadong uri ng media</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Hindi suportadong uri ng media</string>
   <string name="MediaPreviewActivity_draft">Draft</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Kailangan ng Signal ng pahintulot sa Storage upang makapag-save sa panlabas na storage, ngunit ito ay permanenteng ipinagbabawal. Pumunta sa app settings, piliin ang \"Mga Pahintulot\", at i-enable ang \"Storage\". </string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Hindi makapag-save sa panlabas na storage nang walang pahintulot</string>

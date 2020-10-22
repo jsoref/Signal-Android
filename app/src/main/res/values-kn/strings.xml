@@ -881,7 +881,7 @@
   <string name="KeyCachingService_lock">Signal ಲಾಕ್ ಮಾಡಿ</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">ನೀವು</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">ಬೆಂಬಲವಿಲ್ಲದ ಮೀಡಿಯಾ ವಿಧ</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">ಬೆಂಬಲವಿಲ್ಲದ ಮೀಡಿಯಾ ವಿಧ</string>
   <string name="MediaPreviewActivity_draft">ಡ್ರಾಫ್ಟ್</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">ಬಾಹ್ಯ ಸ್ಟೋರೇಜ್ ಗೆ ಉಳಿಸುವುದಕ್ಕೆ Signal ಗೆ ಸ್ಟೊರೇಜ್ ಅನುಮತಿ ಅಗತ್ಯವಿದೆ , ಆದರೆ ಅದನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿರಾಕರಿಸಲಾಗಿದೆ. ದಯವಿಟ್ಟು ಆ್ಯಪ್‌ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಮುಂದುವರಿಯಿರಿ, \"ಅನುಮತಿಗಳು\" ಆಯ್ಕೆ ಮಾಡಿ, ಮತ್ತು  \"ಸ್ಟೊರೇಜ್\" ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">ಅನುಮತಿಗಳಿಲ್ಲದೆ ಬಾಹ್ಯ ಸ್ಟೊರೇಜ್‌ಗೆ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ</string>
