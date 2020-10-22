@@ -1455,7 +1455,7 @@
   <string name="conversation_context__menu_forward_message">संदेश फॉर्वर्ड करा</string>
   <string name="conversation_context__menu_resend_message">संदेश पुन्हा पाठवा</string>
   <string name="conversation_context__menu_reply_to_message">संदेशाला प्रत्युत्तर द्या</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">अनेक निवडा</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">संलग्न जतन करा</string>

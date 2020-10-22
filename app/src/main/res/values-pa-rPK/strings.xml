@@ -1382,7 +1382,7 @@
   <string name="conversation_context__menu_forward_message"> سنیہا اگے گھلو</string>
   <string name="conversation_context__menu_resend_message"> سنیہا فیر گھلو</string>
   <string name="conversation_context__menu_reply_to_message"> سنیہے دا جواب دیو</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select"> اک توں ودھ چنو</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment"> اٹیچمنٹ محفوظ کرو</string>

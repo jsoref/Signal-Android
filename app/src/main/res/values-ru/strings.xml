@@ -2169,7 +2169,7 @@
   <string name="conversation_context__menu_forward_message">Переслать сообщение</string>
   <string name="conversation_context__menu_resend_message">Отправить заново</string>
   <string name="conversation_context__menu_reply_to_message">Ответить на сообщение</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Выбрать несколько</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Сохранить вложение</string>

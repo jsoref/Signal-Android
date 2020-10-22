@@ -2168,7 +2168,7 @@ Otrzymano wiadomość wymiany klucz dla niepoprawnej wersji protokołu.</string>
   <string name="conversation_context__menu_forward_message">Przekaż wiadomość</string>
   <string name="conversation_context__menu_resend_message">Wyślij ponownie wiadomość</string>
   <string name="conversation_context__menu_reply_to_message">Odpowiedz na wiadomość</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Wybierz wiele</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Zapisz załącznik</string>

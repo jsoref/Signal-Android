@@ -1371,7 +1371,7 @@
   <string name="conversation_context__menu_forward_message">ફોરવર્ડ મેસેજ</string>
   <string name="conversation_context__menu_resend_message">મેસેજ ફરીથી મોકલો</string>
   <string name="conversation_context__menu_reply_to_message">મેસેજ નો જવાબ આપો</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">વધારે પસંદ કરો</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">જોડાણ સેવ કરો</string>

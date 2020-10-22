@@ -1033,7 +1033,7 @@
   <string name="conversation_context__menu_forward_message">စာတို ဆက်ပို့ရန်</string>
   <string name="conversation_context__menu_resend_message">စာကို ပြန်ပို့ပါ</string>
   <string name="conversation_context__menu_reply_to_message">စာပြန်ပို့မည်</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">ပူးတွဲဖိုင်ကို သိမ်းပါ</string>
   <!--conversation_expiring_off-->

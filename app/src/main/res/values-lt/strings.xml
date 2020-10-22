@@ -2176,7 +2176,7 @@
   <string name="conversation_context__menu_forward_message">Persiųsti žinutę</string>
   <string name="conversation_context__menu_resend_message">Iš naujo siųsti žinutę</string>
   <string name="conversation_context__menu_reply_to_message">Atsakyti į žinutę</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Pasirinkti kelis</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Įrašyti priedą</string>

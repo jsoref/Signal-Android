@@ -1772,7 +1772,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversion.</string>
   <string name="conversation_context__menu_forward_message">Videresend melding</string>
   <string name="conversation_context__menu_resend_message">Send melding på nytt</string>
   <string name="conversation_context__menu_reply_to_message">Svar på melding</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Velg flere</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Lagre vedlegg</string>

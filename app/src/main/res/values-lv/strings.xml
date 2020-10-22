@@ -1615,7 +1615,7 @@ Saņemts nederīgas protokola versijas atslēgas apmaiņas ziņojums.
   <string name="conversation_context__menu_forward_message">Pārsūtīt ziņu</string>
   <string name="conversation_context__menu_resend_message">Atkārtoti sūtīt ziņu</string>
   <string name="conversation_context__menu_reply_to_message">Atbildēt uz ziņu</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Atzīmējiet vairākus</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Saglabāt pielikumu</string>

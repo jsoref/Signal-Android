@@ -2038,7 +2038,7 @@ aktivizoni Kyçje Regjistrimi, teksa PIN-i është i çaktivizuar.</string>
   <string name="conversation_context__menu_forward_message">Përcille mesazhin</string>
   <string name="conversation_context__menu_resend_message">Ridërgoje mesazhin</string>
   <string name="conversation_context__menu_reply_to_message">Përgjigjuni mesazhin</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Përzgjidhni disa</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Ruaje bashkëngjitjen</string>

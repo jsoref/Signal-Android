@@ -2030,7 +2030,7 @@ Tog emot meddelande för nyckelutbyte för ogiltig protokollversion.</string>
   <string name="conversation_context__menu_forward_message">Vidarebefordra meddelande</string>
   <string name="conversation_context__menu_resend_message">Skicka meddelande igen</string>
   <string name="conversation_context__menu_reply_to_message">Svara på meddelande</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Välj flera</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Spara bilaga</string>

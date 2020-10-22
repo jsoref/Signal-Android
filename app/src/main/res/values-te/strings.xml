@@ -1486,7 +1486,7 @@
   <string name="conversation_context__menu_forward_message">సందేశాన్ని బదలాయించు</string>
   <string name="conversation_context__menu_resend_message">సందేశాన్ని తిరిగి పంపు</string>
   <string name="conversation_context__menu_reply_to_message">సందేశానికి ప్రత్యుత్తరం ఇవ్వండి</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">బహుళ ఎంచుకోండి</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">జత పరిచినది దాచి పెట్టు </string>

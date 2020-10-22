@@ -2037,7 +2037,7 @@ Gakoaren elkar-trukeraro mezua jaso da protokoloaren bertsio baliogabe baterako.
   <string name="conversation_context__menu_forward_message">Birbidali mezua</string>
   <string name="conversation_context__menu_resend_message">Berriro bidali mezua</string>
   <string name="conversation_context__menu_reply_to_message">Erantzun mezuari</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Hautapen anitza</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Eraskina gorde</string>

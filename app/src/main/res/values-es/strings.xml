@@ -2036,7 +2036,7 @@ Se recibió un mensaje de intercambio de claves para una versión no válida del
   <string name="conversation_context__menu_forward_message">Reenviar mensaje</string>
   <string name="conversation_context__menu_resend_message">Reenviar mensaje</string>
   <string name="conversation_context__menu_reply_to_message">Responder al mensaje</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Selección múltiple</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Guardar archivo adjunto</string>

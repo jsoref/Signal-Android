@@ -1193,7 +1193,7 @@
   <string name="conversation_context__menu_forward_message">Препрати съобщението</string>
   <string name="conversation_context__menu_resend_message">Повторно изпращане</string>
   <string name="conversation_context__menu_reply_to_message">Отговор на съобщение</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Запази прикачения файл</string>
   <!--conversation_expiring_off-->

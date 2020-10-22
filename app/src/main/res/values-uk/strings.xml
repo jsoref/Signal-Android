@@ -1151,7 +1151,7 @@
   <string name="conversation_context__menu_forward_message">Переслати повідомлення</string>
   <string name="conversation_context__menu_resend_message">Переслати повідомлення</string>
   <string name="conversation_context__menu_reply_to_message">Відповісти на повідомлення</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Зберегти вкладення</string>
   <!--conversation_expiring_off-->

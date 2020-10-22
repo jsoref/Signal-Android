@@ -1269,7 +1269,7 @@
   <string name="conversation_context__menu_forward_message">Проследи поруку</string>
   <string name="conversation_context__menu_resend_message">Понови слање</string>
   <string name="conversation_context__menu_reply_to_message">Одговори на поруку</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Сачувај прилог</string>
   <!--conversation_expiring_off-->

@@ -1556,7 +1556,7 @@
   <string name="conversation_context__menu_forward_message">ส่งต่อข้อความ</string>
   <string name="conversation_context__menu_resend_message">ส่งข้อความอีกครั้ง</string>
   <string name="conversation_context__menu_reply_to_message">ตอบกลับข้อความ</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">เลือกหลายข้อความ</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">บันทึกแฟ้มแนบ</string>

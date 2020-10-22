@@ -2176,7 +2176,7 @@
   <string name="conversation_context__menu_forward_message">העבר הלאה הודעה</string>
   <string name="conversation_context__menu_resend_message">שלח מחדש הודעה</string>
   <string name="conversation_context__menu_reply_to_message">השב אל הודעה</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">בחר רבים</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">שמור צרופה</string>

@@ -2030,7 +2030,7 @@ S\'ha rebut un missatge d\'intercanvi de claus per a una versió del protocol no
   <string name="conversation_context__menu_forward_message">Reenvia el missatge</string>
   <string name="conversation_context__menu_resend_message">Torna a enviar el missatge</string>
   <string name="conversation_context__menu_reply_to_message">Respon el missatge</string>
-  <!--conversation_context_reacction-->
+  <!--conversation_context_reaction-->
   <string name="conversation_context__reaction_multi_select">Selecció múltiple</string>
   <!--conversation_context_image-->
   <string name="conversation_context_image__save_attachment">Desa l\'adjunt</string>
