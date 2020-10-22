@@ -1677,7 +1677,7 @@
   <string name="redphone_call_card__signal_call">Signal poziv</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">BROJ TELEFONA</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal olakšava komunikaciju tako što koristi Vaš postojeći broj telefona i adresar. Prijatelji i drugi koji znaju kako da Vas nazovu pomoću telefona jednostavno će stupiti s Vama u kontakt preko Signala.\n\nPrilikom registracije, neke informacije o kontaktu prosljeđuju se serveru, no one ne ostaju pohranjene.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal olakšava komunikaciju tako što koristi Vaš postojeći broj telefona i adresar. Prijatelji i drugi koji znaju kako da Vas nazovu pomoću telefona jednostavno će stupiti s Vama u kontakt preko Signala.\n\nPrilikom registracije, neke informacije o kontaktu prosljeđuju se serveru, no one ne ostaju pohranjene.</string>
   <string name="registration_activity__verify_your_number">Potvrdite svoj broj</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Molimo unesite broj svoga mobilnog telefona da primite kōd za potvrđivanje. Vaš operater možda naplati uslugu.</string>
   <!--recipients_panel-->

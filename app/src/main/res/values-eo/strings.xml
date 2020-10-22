@@ -1621,7 +1621,7 @@ Ricevis mesaĝon pri interŝanĝo de ŝlosiloj por nevalida protokola versio.
   <string name="redphone_call_card__signal_call">Signal-alvoko</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONNUMERO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal faciligas komunikon uzante vian ekzistantan telefonnumeron kaj adresaron. Amikoj kaj kontaktoj, kiuj jam scias, kiel telefoni vin, facile kontaktos vin per Signal.\n\nRegistrado sendas kontaktajn informojn al la servilo: ili ne estas konservitaj.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal faciligas komunikon uzante vian ekzistantan telefonnumeron kaj adresaron. Amikoj kaj kontaktoj, kiuj jam scias, kiel telefoni vin, facile kontaktos vin per Signal.\n\nRegistrado sendas kontaktajn informojn al la servilo: ili ne estas konservitaj.</string>
   <string name="registration_activity__verify_your_number">Konfirmi vian numeron</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Bonvolu entajpi vian poŝtelefonan telefonnumeron por ricevi konfirman kodon per SMS. Eble via sendrata provizanto pagigos al vi la SMS-on.</string>
   <!--recipients_panel-->

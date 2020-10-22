@@ -1675,7 +1675,7 @@ Uvezi sigurnosnu kopiju običnog teksta. Kompatibilno s \'SMSBackup And Restore\
   <string name="redphone_call_card__signal_call">Signal poziv</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">BROJ TELEFONA</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal olakšava komunikaciju koristeći postojeći broj telefona i kontakte. Prijatelji i kontakti s kojima ste već u kontaktu putem mobilnog uređaja, moći će vas lako kontaktirati putem Signala.\n\nRegistracija prenosi određene podatke o kontaktu na poslužitelj, ali se ne pohranjuje.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal olakšava komunikaciju koristeći postojeći broj telefona i kontakte. Prijatelji i kontakti s kojima ste već u kontaktu putem mobilnog uređaja, moći će vas lako kontaktirati putem Signala.\n\nRegistracija prenosi određene podatke o kontaktu na poslužitelj, ali se ne pohranjuje.</string>
   <string name="registration_activity__verify_your_number">Potvrdite vaš broj</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Unesite svoj broj telefona da biste primili potvrdni kôd. Mogu se primijeniti naknade operatera.</string>
   <!--recipients_panel-->

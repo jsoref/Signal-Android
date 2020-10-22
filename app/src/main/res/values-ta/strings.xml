@@ -1525,7 +1525,7 @@
   <string name="redphone_call_card__signal_call">Signal  அழைப்பு</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">தொலைபேசி எண்</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">உங்கள் இருக்கும் தொலைபேசி எண் மற்றும் முகவரி புத்தகத்தைப் பயன்படுத்தி Signal தொடர்புகொள்வதை எளிதாக்குகிறது. தொலைபேசியில் உங்களை எவ்வாறு தொடர்பு கொள்வது என்பது ஏற்கனவே அறிந்த நண்பர்கள் மற்றும் தொடர்புகள் Signal மூலம் எளிதில் தொடர்பு கொள்ள முடியும். \ N \ n பதிவுசெய்தல் சில தொடர்பு தகவல்களை சேவையகத்திற்கு அனுப்புகிறது. இது சேமிக்கப்படவில்லை.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">உங்கள் இருக்கும் தொலைபேசி எண் மற்றும் முகவரி புத்தகத்தைப் பயன்படுத்தி Signal தொடர்புகொள்வதை எளிதாக்குகிறது. தொலைபேசியில் உங்களை எவ்வாறு தொடர்பு கொள்வது என்பது ஏற்கனவே அறிந்த நண்பர்கள் மற்றும் தொடர்புகள் Signal மூலம் எளிதில் தொடர்பு கொள்ள முடியும். \ N \ n பதிவுசெய்தல் சில தொடர்பு தகவல்களை சேவையகத்திற்கு அனுப்புகிறது. இது சேமிக்கப்படவில்லை.</string>
   <string name="registration_activity__verify_your_number">உங்கள் எண்ணைச் சரிபார்க்கவும்</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">சரிபார்ப்புக் குறியீட்டைப் பெற உங்கள் மொபைல் எண்ணை உள்ளிடவும். கேரியர் கட்டணங்கள் பொருந்தக்கூடும்.</string>
   <!--recipients_panel-->

@@ -1063,7 +1063,7 @@
   <string name="redphone_call_card__signal_call">Позив на Signalу</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">БРОЈ ТЕЛЕФОНА</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal омогућује једноставну комуникацију користећи ваш број телефона и адресар. Пријатељи и контакти који већ знају како да вас контактирају телефоном ће бити у стању да вас лако контактирају преко Signal-a.\n\nПријава ће пренети неке податке о контакту на сервер. Подаци се не чувају.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal омогућује једноставну комуникацију користећи ваш број телефона и адресар. Пријатељи и контакти који већ знају како да вас контактирају телефоном ће бити у стању да вас лако контактирају преко Signal-a.\n\nПријава ће пренети неке податке о контакту на сервер. Подаци се не чувају.</string>
   <string name="registration_activity__verify_your_number">Провери сигурносни број</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Унесите број телефона како бисте примили потврдни код. Могућа је наплата СМС услуге</string>
   <!--recipients_panel-->

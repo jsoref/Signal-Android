@@ -1154,7 +1154,7 @@
   <string name="redphone_call_card__signal_call">Signal કૉલ</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ફોન નંબર</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal તમારા અસ્તિત્વમાં છે તે ફોન નંબર અને એડ્રેસ બુકનો ઉપયોગ કરીને વાતચીત કરવાનું સરળ બનાવે છે. મિત્રો અને સંપર્કો કે જેઓ પહેલાથી જાણે છે કે ફોન દ્વારા તમારો સંપર્ક કેવી રીતે કરવો તે Signal દ્વારા સરળતાથી સંપર્કમાં આવવા માટે સક્ષમ હશે.\n\n રજિસ્ટ્રેશન સર્વર પર કેટલીક સંપર્ક માહિતી પ્રસારિત કરે છે. તે સંગ્રહિત નથી.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal તમારા અસ્તિત્વમાં છે તે ફોન નંબર અને એડ્રેસ બુકનો ઉપયોગ કરીને વાતચીત કરવાનું સરળ બનાવે છે. મિત્રો અને સંપર્કો કે જેઓ પહેલાથી જાણે છે કે ફોન દ્વારા તમારો સંપર્ક કેવી રીતે કરવો તે Signal દ્વારા સરળતાથી સંપર્કમાં આવવા માટે સક્ષમ હશે.\n\n રજિસ્ટ્રેશન સર્વર પર કેટલીક સંપર્ક માહિતી પ્રસારિત કરે છે. તે સંગ્રહિત નથી.</string>
   <string name="registration_activity__verify_your_number">તમારો નંબર ચકાસો</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">કૃપા કરીને ચકાસણી કોડ મેળવવા માટે તમારો મોબાઇલ નંબર દાખલ કરો. દરો લાગુ થઈ શકે છે.</string>
   <!--recipients_panel-->

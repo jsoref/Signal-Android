@@ -1520,7 +1520,7 @@ Nhận thông tin trao đổi mã khóa về phiên bản giao thức không h�
   <string name="redphone_call_card__signal_call">Cuộc gọi Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">SỐ ĐIỆN THOẠI</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal giúp bạn giao tiếp dễ dàng hơn bằng cách sử dụng số điện thoại và danh bạ của bạn. Bạn bè và liên hệ đã liên lạc với bạn qua điện thoại sẽ dễ dàng sử dụng Signal.\n\nViệc đăng kí sẽ gửi một số dữ liệu đến máy chủ. Dữ liệu này không được lưu.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal giúp bạn giao tiếp dễ dàng hơn bằng cách sử dụng số điện thoại và danh bạ của bạn. Bạn bè và liên hệ đã liên lạc với bạn qua điện thoại sẽ dễ dàng sử dụng Signal.\n\nViệc đăng kí sẽ gửi một số dữ liệu đến máy chủ. Dữ liệu này không được lưu.</string>
   <string name="registration_activity__verify_your_number">Xác Minh Số Điện Thoại Của Bạn</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Vui lòng điền số điện thoại của bạn để nhận mã xác minh. Có thể tính cước phí.</string>
   <!--recipients_panel-->

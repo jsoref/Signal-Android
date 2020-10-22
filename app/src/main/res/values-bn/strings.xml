@@ -1366,7 +1366,7 @@
   <string name="redphone_call_card__signal_call">Signal কল</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ফোন নাম্বার</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal আপনার বিদ্যমান ফোন নাম্বার  এবং এড্রোস বুক ব্যবহার করে যোগাযোগ করা সহজ করে তোলে। বন্ধুরা এবং পরিচিতিসমূহ যারা ইতিমধ্যে ফোনে আপনার সাথে যোগাযোগ করতে পারে তারা Signal এর মাধ্যমে সহজেই যোগাযোগ করতে সক্ষম হবে। \n\n নিবন্ধন করার সময় সার্ভারে পরিচিতির কিছু তথ্য প্রেরণ করে। এটি সংরক্ষণ করা হয় না।</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal আপনার বিদ্যমান ফোন নাম্বার  এবং এড্রোস বুক ব্যবহার করে যোগাযোগ করা সহজ করে তোলে। বন্ধুরা এবং পরিচিতিসমূহ যারা ইতিমধ্যে ফোনে আপনার সাথে যোগাযোগ করতে পারে তারা Signal এর মাধ্যমে সহজেই যোগাযোগ করতে সক্ষম হবে। \n\n নিবন্ধন করার সময় সার্ভারে পরিচিতির কিছু তথ্য প্রেরণ করে। এটি সংরক্ষণ করা হয় না।</string>
   <string name="registration_activity__verify_your_number">আপনার নাম্বার যাচাই করুন</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">একটি যাচাইকরণ কোড পেতে আপনার মোবাইল নাম্বার প্রবেশ করুন। ক্যারিয়ারের হার প্রযোজ্য হতে পারে।</string>
   <!--recipients_panel-->

@@ -1568,7 +1568,7 @@
   <string name="redphone_call_card__signal_call">Signal 呼叫</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">电话号码</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">借助你的电话号码和联系人，Signal 让通信变得便捷。通过电话联系的好友和联系人能够很方便地通过 Signal 与您沟通。\n\n注册过程中某些联系人信息将传输至服务器，但服务器并不保存这些信息。</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">借助你的电话号码和联系人，Signal 让通信变得便捷。通过电话联系的好友和联系人能够很方便地通过 Signal 与您沟通。\n\n注册过程中某些联系人信息将传输至服务器，但服务器并不保存这些信息。</string>
   <string name="registration_activity__verify_your_number">验证号码</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">请输入电话号码，接收验证码。可能收费。</string>
   <!--recipients_panel-->

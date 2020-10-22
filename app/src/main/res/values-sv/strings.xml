@@ -1616,7 +1616,7 @@ Tog emot meddelande för nyckelutbyte för ogiltig protokollversion.</string>
   <string name="redphone_call_card__signal_call">Signal-samtal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONNUMMER</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal gör det lätt att kommunicera genom att använda ditt mobilnummer och din adressbok. Vänner och kontakter som redan vet hur de ska kontakta dig via telefon kommer enkelt att kunna kontakta dig på Signal.\n\nRegistreringen överför viss kontaktinformation till servern. Den lagras inte.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal gör det lätt att kommunicera genom att använda ditt mobilnummer och din adressbok. Vänner och kontakter som redan vet hur de ska kontakta dig via telefon kommer enkelt att kunna kontakta dig på Signal.\n\nRegistreringen överför viss kontaktinformation till servern. Den lagras inte.</string>
   <string name="registration_activity__verify_your_number">Verifiera ditt nummer</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Vänligen ange ditt mobilnummer för att få en verifieringskod. Din operatör kan ta betalt för det.</string>
   <!--recipients_panel-->

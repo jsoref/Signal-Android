@@ -1165,7 +1165,7 @@
   <string name="redphone_call_card__signal_call">Signal کال</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">فون نمبر</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal تہاڈے موجودہ فون نمبر تے ایڈریس بک نوں ورتدے ہوئے مواصلت نوں اسان بناندا اے۔ دوست تے رابطے جیہڑے پہلاں توں جاندے نیں کہ تہانوں فون دے ذریعے کس طراں رابطہ کرنا اے اوہ Signal دے راہیں اسانی نال رابطہ کر سکن گے۔\n\nرجسٹریشن رابطے دی کجھ معلومات سرور نوں منتقل کردی اے۔ ایہہ اسٹور نئیں اے۔</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal تہاڈے موجودہ فون نمبر تے ایڈریس بک نوں ورتدے ہوئے مواصلت نوں اسان بناندا اے۔ دوست تے رابطے جیہڑے پہلاں توں جاندے نیں کہ تہانوں فون دے ذریعے کس طراں رابطہ کرنا اے اوہ Signal دے راہیں اسانی نال رابطہ کر سکن گے۔\n\nرجسٹریشن رابطے دی کجھ معلومات سرور نوں منتقل کردی اے۔ ایہہ اسٹور نئیں اے۔</string>
   <string name="registration_activity__verify_your_number">اپنے نمبر دی تصدیق کرو</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">توثیقی کوڈ حاصل کرن لئی مہربانی کر کے اپناں موبائل نمبر درج کرو۔ کیریئر دیاں شرحاں لاگو ہو سکدیاں نیں۔</string>
   <!--recipients_panel-->

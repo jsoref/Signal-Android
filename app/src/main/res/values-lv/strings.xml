@@ -1355,7 +1355,7 @@ Saņemts nederīgas protokola versijas atslēgas apmaiņas ziņojums.
   <string name="redphone_call_card__signal_call">Signal zvans</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TĀLRUŅA NUMURS</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal atvieglo saziņu, izmantojot esošo tālruņa numuru un adrešu grāmatu. Draugi un kontaktpersonas, kas jau zina, kā sazināties ar jums pa tālruni, varēs viegli sazināties, izmantojot Signal.\n\nReģistrācija pārsūta kontaktinformāciju uz serveri. Šī informācija netiek saglabāta.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal atvieglo saziņu, izmantojot esošo tālruņa numuru un adrešu grāmatu. Draugi un kontaktpersonas, kas jau zina, kā sazināties ar jums pa tālruni, varēs viegli sazināties, izmantojot Signal.\n\nReģistrācija pārsūta kontaktinformāciju uz serveri. Šī informācija netiek saglabāta.</string>
   <string name="registration_activity__verify_your_number">Pārbaudīt Jūsu Numuru</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Lūdzu, ievadiet savu mobilā tālruņa numuru, lai saņemtu verifikācijas kodu. Var tikt piemēroti operatora tarifi.</string>
   <!--recipients_panel-->

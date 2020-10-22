@@ -1194,7 +1194,7 @@
   <string name="redphone_call_card__signal_call">Signal ಕರೆ</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ದೂರವಾಣಿ ಸಂಖ್ಯೆ</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಫೋನ್ ಸಂಖ್ಯೆ ಮತ್ತು ವಿಳಾಸ ಪುಸ್ತಕವನ್ನು ಬಳಸಿಕೊಂಡು ಸಂವಹನವನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ. ಫೋನ್ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಹೇಗೆ ಸಂಪರ್ಕಿಸಬೇಕು ಎಂದು ಈಗಾಗಲೇ ತಿಳಿದಿರುವ ಸ್ನೇಹಿತರು ಮತ್ತು ಸಂಪರ್ಕಗಳು Signal ಮೂಲಕ ಸುಲಭವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. \n\nನೋಂದಣಿಯು ಕೆಲವು ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಸರ್ವರ್‌ಗೆ ರವಾನಿಸುತ್ತದೆ. ಅದನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ.  </string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal ನಿಮ್ಮ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಫೋನ್ ಸಂಖ್ಯೆ ಮತ್ತು ವಿಳಾಸ ಪುಸ್ತಕವನ್ನು ಬಳಸಿಕೊಂಡು ಸಂವಹನವನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತದೆ. ಫೋನ್ ಮೂಲಕ ನಿಮ್ಮನ್ನು ಹೇಗೆ ಸಂಪರ್ಕಿಸಬೇಕು ಎಂದು ಈಗಾಗಲೇ ತಿಳಿದಿರುವ ಸ್ನೇಹಿತರು ಮತ್ತು ಸಂಪರ್ಕಗಳು Signal ಮೂಲಕ ಸುಲಭವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. \n\nನೋಂದಣಿಯು ಕೆಲವು ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಸರ್ವರ್‌ಗೆ ರವಾನಿಸುತ್ತದೆ. ಅದನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ.  </string>
   <string name="registration_activity__verify_your_number">ನಿಮ್ಮ ಸಂಖ್ಯೆ ದೃಢೀಕರಿಸಿ</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">ದೃಢೀಕರಣ ಕೋಡ್ ಸ್ವೀಕರಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ. ಕೆರಿಯರ್ ವಿಧಿಸುವ ದರಗಳು ಅನ್ವಯವಾಗಬಹುದು.</string>
   <!--recipients_panel-->

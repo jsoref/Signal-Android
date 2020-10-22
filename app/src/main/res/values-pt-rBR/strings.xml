@@ -1622,7 +1622,7 @@
   <string name="redphone_call_card__signal_call">Chamada do Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NÚMERO DE TELEFONE</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">É fácil se comunicar com o Signal usando seu número de telefone e contatos já existentes. Quem já fala com você pelo celular também não terá dificuldade de entrar em contato pelo aplicativo.\n\nDurante o cadastro, algumas informações de contato são transmitidas para o servidor. Elas não são armazenadas.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">É fácil se comunicar com o Signal usando seu número de telefone e contatos já existentes. Quem já fala com você pelo celular também não terá dificuldade de entrar em contato pelo aplicativo.\n\nDurante o cadastro, algumas informações de contato são transmitidas para o servidor. Elas não são armazenadas.</string>
   <string name="registration_activity__verify_your_number">Verificar seu número</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Favor inserir seu número de celular para receber um código de verificação. Taxas da operadora podem ser aplicadas.</string>
   <!--recipients_panel-->

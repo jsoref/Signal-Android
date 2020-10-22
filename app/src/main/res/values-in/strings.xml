@@ -1301,7 +1301,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="redphone_call_card__signal_call">Panggilan Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">NOMOR TELEPON</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal memudahkan komunikasi dengan menggunakan nomor telepon dan buku alamat yang ada. Teman dan kontak yang sudah tahu cara menghubungi Anda melalui telepon akan dapat dengan mudah menghubungi dengan Signal.\n\nPendaftaran mentransmisikan beberapa informasi kontak ke peladen, tanpa menyimpannya.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal memudahkan komunikasi dengan menggunakan nomor telepon dan buku alamat yang ada. Teman dan kontak yang sudah tahu cara menghubungi Anda melalui telepon akan dapat dengan mudah menghubungi dengan Signal.\n\nPendaftaran mentransmisikan beberapa informasi kontak ke peladen, tanpa menyimpannya.</string>
   <string name="registration_activity__verify_your_number">Verifikasi Nomor Anda</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Silakan masukkan nomor telepon seluler Anda untuk menerima kode verifikasi. Tarif operator berlaku.</string>
   <!--recipients_panel-->

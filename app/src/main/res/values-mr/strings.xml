@@ -1237,7 +1237,7 @@
   <string name="redphone_call_card__signal_call">Signal कॉल</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">फोन नंबर</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">आपले अस्तित्वात असलेले फोन नंबर आणि पत्ता पुस्तक वापरून Signal परस्परसंवाद साधणे सहज बनवते. मित्र आणि संपर्क ज्यांना आधीपासून आपल्याला कसा संपर्क करायचा हे माहिती आहे ते Signal द्वारा सहज संपर्क साधू शकतात.\n\nनोंदणी काही संपर्क माहिती सर्व्हर वर पाठवते. ती संचयित केली जात नाही.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">आपले अस्तित्वात असलेले फोन नंबर आणि पत्ता पुस्तक वापरून Signal परस्परसंवाद साधणे सहज बनवते. मित्र आणि संपर्क ज्यांना आधीपासून आपल्याला कसा संपर्क करायचा हे माहिती आहे ते Signal द्वारा सहज संपर्क साधू शकतात.\n\nनोंदणी काही संपर्क माहिती सर्व्हर वर पाठवते. ती संचयित केली जात नाही.</string>
   <string name="registration_activity__verify_your_number">आपला नंबर सत्यापित करा</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">सत्यापन कोड प्राप्त करण्यासाठी कृपया आपला मोबाईल नंबर प्रविष्ट करा. वाहक रेट लागू होऊ शकतात.</string>
   <!--recipients_panel-->

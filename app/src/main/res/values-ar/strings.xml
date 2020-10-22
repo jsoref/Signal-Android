@@ -1732,7 +1732,7 @@
   <string name="redphone_call_card__signal_call">مكالمة Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">رقم الهاتف</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">يسهّل Signal من التواصل باستخدام رقم هاتفك الحالي وجهات الاتصال لديك. سيتمكن أصدقائك ومعارفك الذين يعرفون كيف يتصلون بك هاتفيّاً أن يتواصلوا معك عبر Signal.
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">يسهّل Signal من التواصل باستخدام رقم هاتفك الحالي وجهات الاتصال لديك. سيتمكن أصدقائك ومعارفك الذين يعرفون كيف يتصلون بك هاتفيّاً أن يتواصلوا معك عبر Signal.
 
 عملية التسجيل ستنقل بعض بيانات جهات الاتصال إلى الخادوم. لكنّ، لا يتم تخزين هذه البيانات. </string>
   <string name="registration_activity__verify_your_number">تحقق من رقمك</string>

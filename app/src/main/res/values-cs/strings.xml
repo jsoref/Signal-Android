@@ -1731,7 +1731,7 @@ Obdržen požadavek na výměnu klíčů pro neplatnou verzi protokolu.
   <string name="redphone_call_card__signal_call">Signal volání</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">TELEFONNÍ ČÍSLO</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Signal umožňuje snadnou komunikaci s použitím vašeho stávajícího telefonního čísla a adresáře kontaktů. Přátelé a ostatní kontakty se s vámi budou moci snadno spojit pomocí aplikace Signal.\n\nRegistrace odesílá některé kontaktní údaje na server, kde ale nejsou uloženy.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Signal umožňuje snadnou komunikaci s použitím vašeho stávajícího telefonního čísla a adresáře kontaktů. Přátelé a ostatní kontakty se s vámi budou moci snadno spojit pomocí aplikace Signal.\n\nRegistrace odesílá některé kontaktní údaje na server, kde ale nejsou uloženy.</string>
   <string name="registration_activity__verify_your_number">Zkontrolujte vaše číslo</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Zadejte své mobilní číslo a obdržíte ověřovací kód. Může to být zpoplatněno podle sazeb vašeho operátora.</string>
   <!--recipients_panel-->

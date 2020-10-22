@@ -1617,7 +1617,7 @@
   <string name="redphone_call_card__signal_call">Κλήση Signal</string>
   <!--registration_activity-->
   <string name="registration_activity__phone_number">ΑΡΙΘΜΟΣ ΚΙΝΗΤΟΥ</string>
-  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporariliy">Το Signal κάνει την επικοινωνία εύκολη χρησιμοποιόντας τον αριθμό και τις επαφές σου. Φίλοι/ες και επαφές που έχουν ήδη τον αριθμό σου θα μπορούν να σου μιλήσουν εύκολα μέσω του Signal.\n\nΗ εγγραφή μεταδίδει προσωρινά μερικά στοιχεία επικοινωνίας στον διακομιστή. Δε θα αποθηκευτούν.</string>
+  <string name="registration_activity__registration_will_transmit_some_contact_information_to_the_server_temporarily">Το Signal κάνει την επικοινωνία εύκολη χρησιμοποιόντας τον αριθμό και τις επαφές σου. Φίλοι/ες και επαφές που έχουν ήδη τον αριθμό σου θα μπορούν να σου μιλήσουν εύκολα μέσω του Signal.\n\nΗ εγγραφή μεταδίδει προσωρινά μερικά στοιχεία επικοινωνίας στον διακομιστή. Δε θα αποθηκευτούν.</string>
   <string name="registration_activity__verify_your_number">Επιβεβαίωσε τον αριθμό σου</string>
   <string name="registration_activity__please_enter_your_mobile_number_to_receive_a_verification_code_carrier_rates_may_apply">Παρακαλώ γράψε τον αριθμό σου για να λάβεις ένα κωδικό επιβεβαίωσης. Μπορεί να υπάρξουν χρεώσεις παρόχου.</string>
   <!--recipients_panel-->
