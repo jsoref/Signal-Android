@@ -1406,7 +1406,7 @@
   <string name="KeyCachingService_lock">قفل Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">شما</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">نوع رسانه پشتیبانی نشده</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">نوع رسانه پشتیبانی نشده</string>
   <string name="MediaPreviewActivity_draft">پیش‌نویس</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal  به منظور ذخیره سازی روی حافظهٔ خارجی نیاز به مجوز حافظه دارد اما اجازه اینکار به طور دائمی رد شده است. لطفاً به تنظیمات برنامه رفته، «مجوزها» را انتخاب کنید و «حافظه» را فعال کنید.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">عدم توانایی در ذخیره بر روی حافظهٔ خارجی بدون مجوز</string>

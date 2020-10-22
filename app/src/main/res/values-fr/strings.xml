@@ -1301,7 +1301,7 @@
   <string name="KeyCachingService_lock">Verrouiller Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vous</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Type de média non pris en charge</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Type de média non pris en charge</string>
   <string name="MediaPreviewActivity_draft">Brouillon</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal a besoin de l’autorisation Stockage afin d’enregistrer sur la mémoire externe, mais elle a été refusée définitivement. Veuillez accéder aux paramètres de l’appli, sélectionner Autorisations et activer Stockage.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Impossible d’enregistrer sur la mémoire externe sans autorisation</string>

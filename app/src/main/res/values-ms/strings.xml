@@ -731,7 +731,7 @@ Menerima mesej pertukaran kunci untuk versi protokol yang tidak sah.</string>
   <string name="KeyCachingService_lock">Kunci Signal </string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Anda</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Jenis media yang tidak disokong</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Jenis media yang tidak disokong</string>
   <string name="MediaPreviewActivity_draft">Draf</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal memerlukan kebenaran Storan untuk menyimpan ke storan luaran, tetapi telah ditolak secara kekal. Sila terus ke menu tetapan aplikasi, pilih \"Kebenaran\", dan dayakan \"Storan\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Tidak dapat menyimpan ke storan luaran tanpa kebenaran</string>

@@ -1408,7 +1408,7 @@
   <string name="KeyCachingService_lock">Blocca Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Tu</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tipo di media non supportato</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tipo di media non supportato</string>
   <string name="MediaPreviewActivity_draft">Bozza</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal richiede l\'autorizzazione per salvare in memoria, ma questa è stata negata in modo permanente. Si prega di aprire il menu delle impostazioni dell\'app, selezionare \"Autorizzazioni\", quindi abilitare \"Archiviazione\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Impossibile salvare nella memoria esterna senza l\'autorizzazione</string>

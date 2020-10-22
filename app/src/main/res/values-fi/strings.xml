@@ -1324,7 +1324,7 @@ Vastaanotetiin avaintenvaihtoviesti, joka kuuluu väärälle protokollaversiolle
   <string name="KeyCachingService_lock">Lukitse Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Sinä</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Median tyyppiä ei tueta</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Median tyyppiä ei tueta</string>
   <string name="MediaPreviewActivity_draft">Luonnos</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal tarvitsee lupaa käyttää laitteesi tallennustilaa tallentaakseen sinne, mutta tämä käyttöoikeus on pysyvästi evätty Signalilta. Voit muuttaa tätä menemällä sovellusten asetuksiin, valitsemalla \"Sovelluksen käyttöoikeudet\" ja laittamalla päälle \"Tallennustila\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Tallennus ulkoiseen tallennustilaan ei onnistu ilman käyttöoikeutta.</string>

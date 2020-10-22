@@ -1464,7 +1464,7 @@ broj telefona</string>
   <string name="KeyCachingService_lock">Zaključaj Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vi</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Nepodržana vrsta medijskog zapisa</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Nepodržana vrsta medijskog zapisa</string>
   <string name="MediaPreviewActivity_draft">Skica</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal zahtijeva dopuštenje za prostor za pohranu kako bi mogao spremiti u vanjski prostor za pohranu, ali je trajno odbijen. Otvorite postavke aplikacije, odaberite \"Dozvole\" i omogućite \"Prostor za pohranu\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Nije moguće spremiti u vanjski prostor za pohranu bez dozvola</string>

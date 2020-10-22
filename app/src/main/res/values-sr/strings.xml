@@ -772,7 +772,7 @@
   <string name="KeyCachingService_lock">Закључај Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ви</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Неподржан тип медијума</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Неподржан тип медијума</string>
   <string name="MediaPreviewActivity_draft">Нацрт</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_title">Обрисати поруку?</string>
   <string name="MediaPreviewActivity_media_delete_confirmation_message">Ово ће трајно да обрише ову поруку.</string>

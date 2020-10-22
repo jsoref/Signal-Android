@@ -853,7 +853,7 @@
   <string name="KeyCachingService_lock">Signal نوں لاک کرو</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">تسیں</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">غیر معاونتی میڈیا قسم</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">غیر معاونتی میڈیا قسم</string>
   <string name="MediaPreviewActivity_draft">مسودہ</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">بیرونی اسٹوریج اچ محفوط کرن لئیSignal نوں اسٹوریج دی اجازت دی لوڑھ ہندی اے، پر ایہدے توں ہمیشاں لئی منع کیتا گیا اے۔ مہربانی کر کے ایپ دی ترتیباں تے جاری رکھو، \"اجازتاں\" چنو ، تے \"اسٹوریج\" فعال کرو۔</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">اجازت دے بغیر بیرونی اسٹوریج اچ محفوظ نئیں کر سکدا</string>

@@ -600,7 +600,7 @@ Shuk ranti pakallayupay chaski chayamurka, shuk ñawpa mana alli protocolo kashk
   <string name="KeyCachingService_lock">Signalta pakana</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Kikin</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tiyashkakunapa imashinakayka mana chaypurachu. </string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tiyashkakunapa imashinakayka mana chaypurachu. </string>
   <string name="MediaPreviewActivity_draft">Pichak</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal ari nichun munanmi kanllapi allichina ukuman (SDcard, USB) yaykushpa allichinkapak, shinapash mana arinirishkachu.  \"Menú de configuración\" ukuman yaykushpa \"Permisos\" nikukta llapipay, \"Almacenamiento\" paskarichun.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Kanllapi allichita mana ushanchikchu kikin mana arinikpika.</string>

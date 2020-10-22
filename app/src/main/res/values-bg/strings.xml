@@ -709,7 +709,7 @@
   <string name="KeyCachingService_lock">Заключване на Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ти</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Неподдържан медиен формат.</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Неподдържан медиен формат.</string>
   <string name="MediaPreviewActivity_draft">Чернова</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal се нуждае от достъп до вградения диск, за да може да запазва на  него, но той му е отказан. Моля, отидете в настройки в менюто и изберете \"Разрешения\" и \"Дискове\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Неуспешно запазване на външен диск без нуждното разрешение за достъп</string>

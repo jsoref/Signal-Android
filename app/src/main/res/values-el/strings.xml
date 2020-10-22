@@ -1403,7 +1403,7 @@
   <string name="KeyCachingService_lock">Κλείδωμα του Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Εσύ</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Μη υποστηριζόμενος τύπος πολυμέσων</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Μη υποστηριζόμενος τύπος πολυμέσων</string>
   <string name="MediaPreviewActivity_draft">Πρόχειρο</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Το Signal χρειάζεται τα δικαιώματα Αποθηκευτικού Χώρου για αποθήκευση στην εξωτερική μνήμη, αλλά αυτά δεν έχουν δοθεί μόνιμα. Παρακαλώ πήγαινε στις ρυθμίσεις εφαρμογών, επέλεξε τα \"Δικαιώματα\", και ενεργοποίησε το \"Αποθηκευτικός Χώρος\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Αδυναμία αποθήκευσης στην εξωτερική μνήμη χωρίς δικαιώματα</string>

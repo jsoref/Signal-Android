@@ -843,7 +843,7 @@
   <string name="KeyCachingService_lock">Signal લૉક</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">તમે</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">અસમર્થિત મીડિયા પ્રકાર</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">અસમર્થિત મીડિયા પ્રકાર</string>
   <string name="MediaPreviewActivity_draft">ડ્રાફ્ટ</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">બાહ્ય સ્ટોરેજ માં સેવ કરવા માટે Signal ને સ્ટોરેજ પરવાનગીની જરૂર છે, પરંતુ તેનો કાયમી નામંજૂર કરવામાં આવી છે. કૃપા કરીને એપ્લિકેશન સેટિંગ્સ ચાલુ રાખો \"પરવાનગી\" પસંદ કરો, અને \"સ્ટોરેજ\" સક્ષમ કરો.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">પરવાનગી વિના બાહ્ય સ્ટોરેજમાં સેવ કરવામાં અસમર્થ</string>

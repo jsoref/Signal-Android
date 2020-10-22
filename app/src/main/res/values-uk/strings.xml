@@ -674,7 +674,7 @@
   <string name="KeyCachingService_lock">Заблокувати Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ви</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Непідтримуваний тип медіа</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Непідтримуваний тип медіа</string>
   <string name="MediaPreviewActivity_draft">Чернетка</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal потребує дозволу \"Зберігання\", щоб зберігати файли,  але наразі доступу немає. Будь ласка, перейдіть до налаштувань додатку, оберіть \"Дозволи\", та увімкніть \"Зберігання\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Без доступу до файлової системи зберегти файли неможливо</string>

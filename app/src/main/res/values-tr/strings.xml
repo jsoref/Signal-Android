@@ -1323,7 +1323,7 @@ Geçersiz protokol sürümünde anahtar değişim iletisi alındı.</string>
   <string name="KeyCachingService_lock">Signal\'i Kilitle</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Siz</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Desteklenmeyen içerik türü</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Desteklenmeyen içerik türü</string>
   <string name="MediaPreviewActivity_draft">Taslak</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal, harici depolamaya kaydedebilmek için Depolama iznine ihtiyaç duyar, fakat bu izin kalıcı olarak reddedilmiş. Lütfen uygulama ayarları menüsüne girip \"İzinler\" kısmını seçin, ve \"Depolama\"yı etkinleştirin.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">İzinler olmadan harici depolamaya kaydedilemiyor</string>

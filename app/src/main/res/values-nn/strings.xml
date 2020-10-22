@@ -1412,7 +1412,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversjon.</string>
   <string name="KeyCachingService_lock">Lås Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Deg</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Ustøtta medietype</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Ustøtta medietype</string>
   <string name="MediaPreviewActivity_draft">Kladd</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal treng tilgang til lagring for å lagra til eksterne minnekort, men tilgangen er permanent avslått. Opna app-innstillingsmenyen og vel «Tilgang» – eventuelt «Tillatelser» – og skru på «Lagring».</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Kan ikkje lagra til eksterne minnekort utan tilgang</string>

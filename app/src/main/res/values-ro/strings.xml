@@ -1413,7 +1413,7 @@ Am primit mesajul conform căruia schimbul de chei a avut loc pentru o versiune 
   <string name="KeyCachingService_lock">Blocați Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Tu</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tip media nesuportat</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tip media nesuportat</string>
   <string name="MediaPreviewActivity_draft">Ciornă</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal are nevoie de permisiunea pentru spațiul de stocare extern pentru a salva pe spațiul de stocare extern, dar i-a fost refuzat accesul permanent. Vă rog navigați în meniul de setări al aplicației, selectați \"Permisiuni\" și activați \"Spațiu de stocare\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Nu se poate salva pe spațiu de stocare extern fără permisiune</string>

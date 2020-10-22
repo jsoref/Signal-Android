@@ -951,7 +951,7 @@
   <string name="KeyCachingService_lock">Bloquear Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Ti</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tipo multimedia non compatible</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tipo multimedia non compatible</string>
   <string name="MediaPreviewActivity_draft">Borrador</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal necesita permiso para acceder ao almacenamento externo e poder gardar nel, pero foi denegado de forma permanente. Vai aos axustes da aplicación, selecciona \"Permisos\" e activa \"Almacenamento\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Non é posible gardar no almacenamento externo sen permiso</string>

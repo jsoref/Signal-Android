@@ -975,7 +975,7 @@
   <string name="KeyCachingService_lock">ਲੌਕ  Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">ਤੁਸੀਂ</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">ਗ਼ੈਰਸਮਰਥਿਤ ਮੀਡੀਆ ਕਿਸਮ</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">ਗ਼ੈਰਸਮਰਥਿਤ ਮੀਡੀਆ ਕਿਸਮ</string>
   <string name="MediaPreviewActivity_draft">ਡਰਾਫਟ</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">ਬਾਹਰੀ ਸਟੋਰੇਜ ਤੇ ਦਰਜ ਕਰਨ ਲਈ Signal ਨੂੰ ਸਟੋਰੇਜ ਅਨੁਮਤੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ, ਪਰ ਇਸਨੂੰ ਪੱਕੇ ਤੌਰ ਤੇ ਨਾਮਨਜ਼ੂਰ ਕਰ ਦਿੱਤਾ ਗਿਆ | ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਸੈਟਿੰਗਾਂ ਚ ਜਾਓ , \"ਅਨੁਮਤੀਆਂ\" ਚੁਣੋ ਅਤੇ \"ਸਟੋਰੇਜ\" ਨੂੰ ਸਮਰੱਥ ਕਰੋ.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">ਅਨੁਮਤੀਆਂ ਦੇ ਬਿਨਾਂ ਬਾਹਰੀ ਸਟੋਰੇਜ ਵਿੱਚ ਦਰਜ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ</string>

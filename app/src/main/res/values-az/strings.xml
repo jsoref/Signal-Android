@@ -673,7 +673,7 @@
   <string name="KeyCachingService_lock">Signal-ı kilidlə</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Sən</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Dəstəklənməyən media növü</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Dəstəklənməyən media növü</string>
   <string name="MediaPreviewActivity_draft">Qaralama</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Xarici yaddaşa məlumat yaza bilməsi üçün Signal-ın Yaddaş seçimlərinə giriş icazəsi olmalıdır ki, o da hal hazırda qadağa edilmişdir. Davam edə bilmək üçün zəhmət olmasa aplikasiya parametrləri menyusuna, oradan isə \"İcazələr bölməsinə keçərək \"Yaddaş\" hissəsini aktivləşdir.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">İcazəsiz xarici yaddaşa məlumat yaza bilmərik</string>

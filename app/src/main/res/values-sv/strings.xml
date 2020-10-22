@@ -1402,7 +1402,7 @@ Tog emot meddelande för nyckelutbyte för ogiltig protokollversion.</string>
   <string name="KeyCachingService_lock">Lås Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Du</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Mediatypen stöds inte</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Mediatypen stöds inte</string>
   <string name="MediaPreviewActivity_draft">Utkast</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal behöver behörigheten Lagring för att spara i extern lagring men det har avvisats permanent. Vänligen fortsätt till inställningar för appar, välj \"Behörigheter\" och aktivera \"Lagring\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Kan inte spara i extern lagring utan behörighet</string>

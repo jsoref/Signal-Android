@@ -1100,7 +1100,7 @@
   <string name="KeyCachingService_lock">ចាក់សោរSignal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">អ្នក</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">ប្រភេទឯកសារមិនគាំទ្រ</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">ប្រភេទឯកសារមិនគាំទ្រ</string>
   <string name="MediaPreviewActivity_draft">ព្រាង</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signalត្រូវការសិទ្ធិប្រើប្រាស់អង្គរក្សាទុកដើម្បីរក្សាឯកសារក្នុងអង្គរក្សាទុកខាងក្រៅ ប៉ុន្តែវាត្រូវបានបដិសេធរហូត។ សូមបន្តទៅកាន់ ការកំណត់ ជ្រើសរើស \"ការអនុញ្ញាត\" និងបើក \"អង្គរក្សាទុក\"។ </string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">មិនអាចរក្សាទុកក្នុងអង្គរក្សាទុកខាងក្រៅ ដោយគ្មានការអនុញ្ញាត</string>

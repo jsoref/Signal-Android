@@ -1519,7 +1519,7 @@
   <string name="KeyCachingService_lock">Блокировать Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Вы</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Тип медиа-файла не поддерживается</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Тип медиа-файла не поддерживается</string>
   <string name="MediaPreviewActivity_draft">Черновик</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal требуется разрешение на доступ к хранилищу для сохранения во внешнее хранилище, но оно было вами отклонено. Нажмите «Продолжить», чтобы перейти в настройки приложения, откройте «Разрешения» и включите «Хранилище».</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Не удалось сохранить во внешнем хранилище без разрешений</string>

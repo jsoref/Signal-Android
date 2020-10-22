@@ -1006,7 +1006,7 @@ Menerima pesan pertukaran kunci untuk versi protokol yang tidak valid.
   <string name="KeyCachingService_lock">Kunci Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Anda</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Tipe media tidak didukung</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Tipe media tidak didukung</string>
   <string name="MediaPreviewActivity_draft">Draf</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal memerlukan izin Penyimpanan untuk menyimpan di penyimpanan eksternal, tetapi saat ini izin ditolak secara permanen. Harap lanjutkan ke pengaturan aplikasi, pilih \"Izin\" dan aktifkan \"Penyimpanan\".</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Tidak bisa menyimpan ke penyimpanan eksternal tanpa izin</string>

@@ -1346,7 +1346,7 @@
   <string name="KeyCachingService_lock">鎖定 Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">您</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">不支援的媒體類型</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">不支援的媒體類型</string>
   <string name="MediaPreviewActivity_draft">草稿</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal 需要儲存的權限以儲存外接儲存空間，但是現在被設定為永久拒絕存取。請到應用程式設定中，選取「權限」，並啟用「儲存空間」的權限。</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">因為沒有儲存的權限，無法儲存到外部儲存空間</string>

@@ -1467,7 +1467,7 @@
   <string name="KeyCachingService_lock">Zaključaj Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Vi</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Nepodržana vrsta datoteke</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Nepodržana vrsta datoteke</string>
   <string name="MediaPreviewActivity_draft">U obradi</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signalu je potrebno dopuštenje da pristupi memoriji uređaja kako bi mogao pohranjivati podatke, ali je ono trajno uskraćeno. Molimo nastavite do postavki aplikacije, odaberite \"Dozvole\" i aktivirajte stavku \"Prostor za pohranu\". </string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Nije moguće bez dopuštenja pohraniti podatke u memoriju uređaja</string>

@@ -1179,7 +1179,7 @@ Mottok nøkkelutvekslingsmelding for ugyldig protokollversion.</string>
   <string name="KeyCachingService_lock">Lås Signal</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Deg</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Ustøttet medietype</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Ustøttet medietype</string>
   <string name="MediaPreviewActivity_draft">Utkast</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal krever tillatelse fra systemet for å kunne skrive til ekstern lagringsenhet, men du har valgt å avslå dette permanent. Gå til «Apper»-menyen på systemet og slå på tillatelsen «Lagring».</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Du kan ikke lagre på ekstern lagringsenhet uten å slå på tillatelse i systemet først</string>

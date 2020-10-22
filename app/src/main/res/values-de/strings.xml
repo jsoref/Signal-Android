@@ -1398,7 +1398,7 @@ Schlüsselaustausch-Nachricht für eine ungültige Protokollversion empfangen</s
   <string name="KeyCachingService_lock">Signal sperren</string>
   <!--MediaPreviewActivity-->
   <string name="MediaPreviewActivity_you">Du</string>
-  <string name="MediaPreviewActivity_unssuported_media_type">Nicht unterstützter Medieninhalt</string>
+  <string name="MediaPreviewActivity_unsupported_media_type">Nicht unterstützter Medieninhalt</string>
   <string name="MediaPreviewActivity_draft">Entwurf</string>
   <string name="MediaPreviewActivity_signal_needs_the_storage_permission_in_order_to_write_to_external_storage_but_it_has_been_permanently_denied">Signal benötigt die Berechtigung »Speicher« für das Speichern in den Gerätespeicher, diese wurde jedoch dauerhaft abgelehnt. Bitte öffne die App-Einstellungen, wähle »Berechtigungen« und aktiviere »Speicher«.</string>
   <string name="MediaPreviewActivity_unable_to_write_to_external_storage_without_permission">Speichern in den Gerätespeicher ohne Berechtigungen nicht möglich.</string>
