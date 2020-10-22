@@ -973,7 +973,7 @@ public class VideoCapture extends UseCase {
         private static final int DEFAULT_AUDIO_MIN_BUFFER_SIZE = 1024;
         /** Current max resolution of VideoCapture is set as FHD */
         private static final Size DEFAULT_MAX_RESOLUTION = new Size(1920, 1080);
-        /** Surface occupancy prioirty to this use case */
+        /** Surface occupancy priority to this use case */
         private static final int DEFAULT_SURFACE_OCCUPANCY_PRIORITY = 3;
 
         private static final VideoCaptureConfig DEFAULT_CONFIG;
